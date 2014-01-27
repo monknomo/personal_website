@@ -1,0 +1,168 @@
+*{
+margin:0;
+font-family:Arial;
+}
+html, body {
+height: 100%;
+background:#fff;
+}
+body{
+background-image:url('http://gunnargissel.com/images/3.png'),url('http://gunnargissel.com/images/2.png'),url('http://gunnargissel.com/images/1.png')
+}
+h1{
+font-size: 140%;
+font-weight:bold;
+}
+h2{
+font-size: 120%;
+font-weight:bold;
+}
+h3{
+font-size: 115%;
+font-weight:bold;
+}
+h4{
+font-size: 110%;
+font-weight:bold;
+}
+h5{
+font-size: 105%;
+font-weight:bold;
+}
+h6{
+font-size: 102%;
+font-weight:bold;
+}
+.wrapper {
+min-height: 100%;
+height: auto !important;
+height: 100%;
+margin: 0 auto -50px; /* the bottom margin is the negative value of the footer's height + padding */
+}
+.footer, .push{
+height: 50px; /* .push must be the same height as .footer */
+clear:both;
+}
+.footer{
+text-align:center;
+background:#87EA00;
+}
+.lefty{
+float:left;
+width:182px;
+clear:both;
+background:#E5FB00;
+}
+.righty{
+float:left;
+width:75%;
+background: #fff;
+min-height:50%;
+padding:10px;
+border-left: 2px solid #d8005f;
+}
+.header{
+background: #87EA00;
+width:100%;
+border-bottom: 2px solid #d8005f;
+}
+.header a:link{
+text-decoration:none;
+color:#D8005F;
+}
+.header a:visited{
+text-decoration:none;
+color:#d8005f;
+}
+.navItem {
+color:black;
+padding-left:15px;
+padding-top:5px;
+background:#E5FB00;
+color:#ffec00;
+text-decoration:none;
+}
+a:link{
+text-decoration:none;
+color:#D8005F;
+}
+a:visited{
+text-decoration:none;
+color:#8C003D;
+}
+a:active{
+text-decoration:underline;
+color:#A2285E;
+}
+a:hover{
+text-decoration:underline;
+color:#A2285E;
+}
+.legal-stuff{
+font-size:x-small;
+padding-top:5px;
+}
+.title-text{
+font-size:xx-large;
+color:#d8005f;
+padding-left:20px;
+}
+
+.title-text{
+font-size:xx-large;
+color:#d8005f;
+padding-left:20px;
+}
+#navbar{
+	width:800px;
+}
+#navbarLeft{
+	float:left;
+}
+#navbarRight{
+	float:right;
+}
+#twitterfeed{
+clear:both;
+}
+
+ul {
+	list-style:none;
+	padding:0; margin:20px 0 0 0; text-indent:0;
+	float:right;
+	width:80%;
+}
+ 
+#nav li {
+	padding:0; 
+	margin:0px;
+}
+#nav li a {
+	display:block; 
+	background-color:#e5fb00;
+	padding:7px; margin:0;
+	text-decoration:none; color:#000;
+	border-bottom:1px solid #d8005f;
+	text-align:right;
+}
+ 
+#nav li a:hover, #nav li a:focus {
+	background:#b0bc2f;
+	border-bottom-color:#8C003D;
+}
+ 
+#nav li a:after{
+	content:">>";
+	color:#D8005F; 
+	display:inline;
+	float:right;
+	margin:0 10px 0 5px;
+}
+
+#nav li a:hover::after {
+	margin:0 2 0 5px; 
+	font-weight:bold;
+}
+ 
+#nav li a:active {
+	padding:8px 7px 6px 7px;
