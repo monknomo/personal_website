@@ -1,116 +1,122 @@
-<html>
-	<head>
-		<title>GunnarGissel.com - Homepage</title>
-		<link rel="icon" type="image/ico" href="http://gunnargissel.com/images/miniG.ico"/>
-		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-		<link rel="stylesheet" href="default.css" type="text/css" medial="all"/>
-<script type="text/javascript">
+<!DOCTYPE html lang="en">
+<!-- /ht Paul Irish - http://front.ie/j5OMXi -->
+<!--[if lt IE 7 ]> <html class="no-js ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]>    <html class="no-js ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]>    <html class="no-js ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+	<meta charset="utf-8">
+	<title>Gunnar Gissel - homepage</title>
 
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-30611541-1']);
-  _gaq.push(['_setDomainName', 'gunnargissel.com']);
-  _gaq.push(['_trackPageview']);
+	<meta name="description" content="Gunnar Gissel's personal website - sort of an online business card and holding pen for projects">
+	<meta name="author" content="Gunnar Gissel <ggissel@alumni.cmu.edu>">
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+	<!-- /ht Andy Clarke - http://front.ie/lkCwyf -->
+	<meta http-equiv="cleartype" content="on">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	  
+	<link rel="icon" type="image/ico" href="/images/miniG.ico"/>
+	<link rel="apple-touch-icon" href="/images/tinyG.png">
 
-</script>
-	</head>
-	<body>
-		<div class="wrapper">
-		<div class="header">			
-			<div style="height:10px;">
-			</div>
-			<span class="title-text">
-				<a href = "http://gunnargissel.com"><img src="http://gunnargissel.com/images/bigG.png" style="margin:0px 0px -5px 0px;" />unnarGissel.com</a> 
+	<!-- /ht Jeremy Keith - http://front.ie/mLXiaS -->
+	<link rel="stylesheet" href="css/base_global.css" media="all">
+	<link rel="stylesheet" href="css/base_layout.css" media="all and (min-width: 33.236em)">
+	<!-- 30em + (1.618em * 2) = 33.236em / Eliminates potential of horizontal scrolling in most cases -->
+
+	<!--[if (lt IE 9) & (!IEMobile)]>
+	<link rel="stylesheet" href="css/layout.css" media="all">
+	<![endif]-->
+
+	<script src="js/libs/modernizr-1.7.min.js"></script>
+	 
+	 
+	<!--
+		<PageMap>
+			<DataObject type="document">
+				<Attribute name="title">
+					Gunnar Gissel's homepage
+				</Attribute>
+				<Attribute name="Author">
+					Gunnar Gissel <ggissel@alumni.cmu.edu>
+				</Attribute>
+				<Attribute name="description">
+					Gunnar Gissel's personal website.  An online business card and holding pen for Gunnar's projects and accomplishments, particularly relating to software development.
+				</Attribute>
+				<Attribute name="page_count">
+					7
+				</Attribute>
+				<Attribute name="last_update">
+					01/28/2014
+				</Attribute>
+			</DataObject>
+		</PageMap>
+	-->
+</head>
+
+<body>
+  
+  <div id="container" class="cf">
+    
+    <header>
+		<h1>
+			<span class="large-title-text">			
+				<a href = "http://gunnargissel.com"  media="all and (min-width: 33.236em)">
+				<img src="http://gunnargissel.com/images/bigG.png" style="margin:0pem 0em -2em 0em;"/>
+				unnar Gissel</a>
 			</span>
-		</div>
+			<span class="small-title-text">			
+				<a href = "http://gunnargissel.com"  media="all and (min-width: 33.236em)">
+				Gunnar Gissel
+				</a>
+			</span>
+		</h1> 
+	</header>
+    
+    <div id="main" role="main">
 		<div class="lefty">
 			<div style="height:10px; background:fff;"></div>	
-			<div>
-				<ul id="nav">
+			<nav>
+				<ul>
 					<li><a href="http://blog.gunnargissel.com">Blog</a></li>
 					<li><a href="http://www.linkedin.com/pub/gunnar-gissel/17/717/52">Resume</a></li>
 					<li><a href="http://gunnargissel.com/">About</a></li>
-					<li><a href="http://gunnargissel.com/standup.html">Stand Up</a></li>
-					<li><a href="http://gunnargissel.com/c25k/">C25K</a></li>
-					<li><a href="http://gunnargissel.com/triplesecdiary/triplesecdiary.html">TS Diary</a></li>
+					<li><a itemscope itemtype="http://schema.org/SoftwareApplication" href="http://gunnargissel.com/standup.html"><span itemprop="name">Stand Up</span></a></li>
+					<li><a itemscope itemtype="http://schema.org/SoftwareApplication" href="http://gunnargissel.com/c25k/"><span itemprop="name">C25K</span></a></li>
+					<li><a itemscope itemtype="http://schema.org/SoftwareApplication" href="http://gunnargissel.com/triplesecdiary/triplesecdiary.html"><span itemprop="name">TS Diary</span></a></li>
 				</ul>
-			</div>	
-
-			<div id="twitterFeed">
-				<script src="http://widgets.twimg.com/j/2/widget.js"></script>
-				<script>
-					new TWTR.Widget({
-						version: 2,
-						type: 'profile',
-						rpp: 4,
-						interval: 6000,
-						width: 182,
-						height: 300,
-						theme: {
-							shell: {
-								background: '#e6fb00',
-								color: '#d8005e'
-							},
-							tweets: {
-								background: '#e6fb00',
-								color: '#d8005e',
-								links: '#8C003D'
-							}
-						},
-						features: {
-							scrollbar: false,
-							loop: false,
-							live: true,
-							hashtags: true,
-							timestamp: true,
-							avatars: false,
-							behavior: 'all'
-						}
-					}).render().setUser('monknomo').start();
-				</script>
-			</div>
-		
+			</nav>			
 		</div>
 		<div class="righty">
-			<div id="content"> <a href="http://www.skijuneau.com"><img style="float:right; margin:10px 10px 0px 0px;" 
-src="http://gunnargissel.com/images/webHeadshotThumb.png"/></a> <p>I grew up in <a 
-href="http://en.wikipedia.org/wiki/Juneau">Juneau,</a> which is a small town in Southeast Alaska.</p> <br> <p>Later I went to 
-school at <a href="http://www.cmu.edu">Carnegie Mellon University,</a> where I studied physics. During summers I worked at the 
-Sears Dealer Store my parents owned. I started with sales and deliveries and later moved to managing the sales and delivery staff.  
-I also installed an electronic time-clock and internet accesible security cameras.</p> <br> <p>From there I went to work at the <a 
-href="http://www.uspto.gov">US Patent Office.</a> I worked in the Measuring and Testing art unit (2856 represent!), which covers a 
-pretty wide variety of devices and techniques, some more interesting than others. My personal favorite patent application that I 
-worked on was US 7,484,408, for being a relatively clever way of measuring a foot's volume and using fewer materials than other 
-similar devices. My least favorite patent that I worked on was US 7,603,901, which is basically a teapot with a spirit level. I 
-was not personally impressed.</p> <br> <p>I decided that I really wasn't cut out for patent examining, because my tedium tolerance 
-is too low and my passion for measuring devices is not sufficiently high (although I like measuring devices more than your average 
-man on the street). I left in the summer of '09 to program for <a href="http://www.noaa.gov">NOAA</a> in my hometown.</p> <br> 
-<p>At NOAA, I principally work on the <a href="http://www.elandings.alaska.gov">eLandings project</a>, although I sometimes fill 
-in for internal projects on the <a href="http://fakr.noaa.gov">Alaska Region's Catch Accounting System.</a> Elandings is a 
-reporting software used by commercial fisherman to tell NOAA and the <a href="http://www.adfg.alaska.gov/">Alaska Department of 
-Fish and Game</a> how many fish they've caught and/or processed. I work on the web interface, the server side, database portions 
-and a Java Swing client. Most of what I work on is concentrated in the <a 
-href="https://elandings.alaska.gov/confluence/display/doc/eLogbook+Instructions">logbook</a> and <a 
-href="https://elandings.alaska.gov/confluence/display/doc/eLandings+User%27s+Guide">groundfish reporting</a> portions of the 
-system.</p>
-			</div>	
+			<article> 
+				<a class="large-display" ref="external" href="http://www.skijuneau.com"><img class="lefty large-display" src="http://gunnargissel.com/images/webHeadshotThumb.png"/></a> 
+				<p>I grew up in <a rel="external" href="http://en.wikipedia.org/wiki/Juneau">Juneau,</a> which is a small town in Southeast Alaska.
+				</p> 
+				<p>Later I went to school at <a rel="external" href="http://www.cmu.edu/physics/">Carnegie Mellon University,</a> where I studied physics. During summers I worked at the Sears Dealer Store my parents owned. I started with sales and deliveries and later moved to managing the sales and delivery staff.  I also installed an electronic time-clock and internet accesible security cameras.
+				</p> 
+				<p>From there I went to work at the <a rel="external"  href="http://www.uspto.gov">US Patent Office.</a> I worked in the Measuring and Testing art unit (2856 represent!), which covers a pretty wide variety of devices and techniques, some more interesting than others. My personal favorite patent application that I worked on was US 7,484,408, for being a relatively clever way of measuring a foot's volume and using fewer materials than other similar devices. My least favorite patent that I worked on was US 7,603,901, which is basically a teapot with a spirit level. I was not personally impressed.
+				</p> 
+				<p>I decided that I really wasn't cut out for patent examining, because my tedium tolerance is too low and my passion for measuring devices is not sufficiently high (although I like measuring devices more than your average man on the street). I left in the summer of '09 to program for <a rel="nofollow" href="http://www.noaa.gov">NOAA</a> in my hometown.
+				</p> 
+				<p>At NOAA, I principally work on the <a rel="external" href="http://www.elandings.alaska.gov">eLandings project</a>, although I sometimes fill in for internal projects on the <a rel="external" href="http://alaskafisheries.noaa.gov/">Alaska Region's Catch Accounting System.</a> Elandings is a reporting software used by commercial fisherman to tell NOAA and the <a rel="external nofollow" href="http://www.adfg.alaska.gov/">Alaska Department of Fish and Game</a> how many fish they've caught and/or processed. I work on the web interface, the server side, database portions and a Java Swing client. Most of what I work on is concentrated in the <a rel="external" href="https://elandings.alaska.gov/confluence/display/doc/eLogbook+Instructions">logbook</a> and <a rel="external" href="https://elandings.alaska.gov/confluence/display/doc/eLandings+User%27s+Guide">groundfish reporting</a> portions of the system.
+				</p>
+			</article>	
 		</div>
-		<div class="push"></div>
+	<!--main div-->
 	</div>
-	<div class="footer">
+    
+    <footer>
 		<div style="float:left; width:58%; text-align:right;">
 			<div style="height:15px;"></div>
 			<span class="legal-stuff">Copyright 2011, by Gunnar Gissel, all rights reserved! &nbsp</span>
 		</div>
 		<div style="float:left; width:50px;">
-			<a href = "http://gunnargissel.com"><img src="http://gunnargissel.com/images/tinyG.png"  style="margin:3px 0px 0px 0px;" /><a>
+			<a rel="author" href="http://gunnargissel.com"><img src="http://gunnargissel.com/images/tinyG.png"  style="margin:3px 0px 0px 0px;" /><a>
 		</div>
-	</div>
+	</footer>
+    
+  </div>
 
-	</body>
+</body>
+
 </html>
