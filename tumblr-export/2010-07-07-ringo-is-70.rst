@@ -1,0 +1,31 @@
+Ringo is 70
+###########
+:date: 2010-07-07 08:16:00
+:author: monknomo
+:category: text
+:slug: 2010-07-07-ringo-is-70
+
+| I knew the Beetles were getting up there, but 70 seems like a pretty
+big marker.  Ringo still gives a pretty decent `interview`_.  In my
+mental pool of "When Will Famous Musicians from the 60's Die?" I have
+Ringo as outliving them all.  You compare him to the Stones, or even
+Paul McCartney and he looks 10, 20 years younger.  I wonder if he gets
+his hair dyed?
+
+.. raw:: html
+
+   <div class="blogger-post-footer">
+
+|image0|
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   </p>
+
+.. _interview: http://artsbeat.blogs.nytimes.com/2010/07/06/you-say-its-your-birthday-help-ringo-starr-celebrate-when-he-turns-70/
+
+.. |image0| image:: https://blogger.googleusercontent.com/tracker/5640146011587021512-6299335304305485786?l=monknomo.blogspot.com

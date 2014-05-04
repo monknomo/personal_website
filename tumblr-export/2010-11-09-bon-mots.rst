@@ -1,0 +1,52 @@
+Bon Mots
+########
+:date: 2010-11-09 16:00:00
+:author: monknomo
+:category: text
+:slug: 2010-11-09-bon-mots
+
+Maureen Dowd's \ `column`_ is her usual, but it did have this little
+excerpt from Bush's book, which I thought was pretty good:
+
+.. raw:: html
+
+   <div>
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   <div>
+
+Yet if W.'s decision-making leaves something to be desired, his
+story-telling is good. He writes of a visit to Russia, when Putin showed
+him his black Labrador, Koni. "Bigger, stronger, and faster than
+Barney," Putin bragged.
+
+Later, when W. recounted this to Stephen Harper, the Canadian prime
+minister, Harper drolly noted, "You're lucky he only showed you his
+dog."
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   <div class="blogger-post-footer">
+
+|image0|
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   </p>
+
+.. _column: http://www.nytimes.com/2010/11/07/opinion/07dowd.html
+
+.. |image0| image:: https://blogger.googleusercontent.com/tracker/5640146011587021512-8883062874453625703?l=monknomo.blogspot.com

@@ -1,0 +1,9 @@
+Javaone
+#######
+:date: 2012-10-02 17:29:00
+:author: monknomo
+:category: text
+:slug: 2012-10-02-javaone
+
+I'm reminding myself to check out @dariframeworks - it's like a cooler
+Django

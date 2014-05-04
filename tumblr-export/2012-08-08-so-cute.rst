@@ -1,0 +1,17 @@
+Photo
+#####
+:date: 2012-08-08 21:10:13
+:author: monknomo
+:category: photo
+:tags: cute, funny, dinosaurs, gif, animation, animatedgif
+:slug: 2012-08-08-so-cute
+
+|image0|
+
+So cute
+
+.. raw:: html
+
+   </p>
+
+.. |image0| image:: http://37.media.tumblr.com/tumblr_m8h2d1Uz9x1r4lov5o1_1280.gif

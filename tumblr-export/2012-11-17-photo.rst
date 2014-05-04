@@ -1,0 +1,15 @@
+Photo
+#####
+:date: 2012-11-17 10:48:20
+:author: monknomo
+:category: photo
+:tags: computers, funny, demonic
+:slug: 2012-11-17-photo
+
+|image0|
+
+.. raw:: html
+
+   </p>
+
+.. |image0| image:: http://37.media.tumblr.com/tumblr_mde9j123wM1rehruqo1_400.png
