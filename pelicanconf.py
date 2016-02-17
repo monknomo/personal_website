@@ -3,9 +3,12 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'Gunnar Gissel'
+AUTHOR_EMAIL = 'monknomo@gmail.com'
 SITENAME = "Gunnar's Blog"
 SITEURL = 'http://gunnargissel.com'
 #SITEURL = 'http://localhost:8080'
+PLUGIN_PATHS = ['../pelican-plugins']
+PLUGINS = ['assets', 'gravatar']
 
 TIMEZONE = 'America/Juneau'
 
