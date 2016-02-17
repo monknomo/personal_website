@@ -8,7 +8,7 @@ SITENAME = "Gunnar's Blog"
 SITEURL = 'http://gunnargissel.com'
 #SITEURL = 'http://localhost:8080'
 PLUGIN_PATHS = ['../pelican-plugins']
-PLUGINS = ['assets', 'gravatar']
+PLUGINS = ['assets', 'gravatar','sitemap']
 
 TIMEZONE = 'America/Juneau'
 
@@ -34,3 +34,17 @@ DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = False
+
+SITEMAP = {
+        'format': 'xml',
+        'priorities': {
+            'articles': 0.5,
+            'indexes': 0.5,
+            'pages': 0.5
+        },
+        'changefreqs': {
+            'articles': 'monthly',
+            'indexes': 'daily',
+            'pages': 'monthly'
+        }
+    }
