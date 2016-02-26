@@ -1,6 +1,6 @@
 Title: Why use Docker When You Can Just Use a Fat Jar?
 Date: 02/22/2016 19:34
-Modified: 02/22/2016 19:34
+Modified: 02/26/2016 11:00
 Category: Operations
 Tags: docker, java, jar, containers
 Slug: why-use-docker-when-you-can-just-use-a-fat-jar
@@ -8,7 +8,7 @@ Author: Gunnar Gissel
 Email: monknomo@gmail.com
 Summary: Quickly choose whether to use Docker or a self contained fat jar
 
-I saw [a question](http://www.reddit.com/r/java/comments/465sv2) on [r/java](http://www.reddit.com/r/java) that I thought was great.  OP is deploying a fat jar that has everything OP's app requires, so the deploy is just a simple file copy.
+I saw [a question](http://www.reddit.com/r/java/comments/465sv2) on [r/java](http://www.reddit.com/r/java) that I thought was great.  OP is deploying a fat jar that has everything OP's app requires, so the deploy is just a simple file copy.  OP is also using Docker to deploy the entire environment along with the jar and wonders if it is worth it.
 
 When to Use Docker
 ---------------------
@@ -25,7 +25,7 @@ When to Use Docker
 When to Use a Fat Jar
 -----------------------
 
-[Fat jars](http://stackoverflow.com/questions/19150811/what-is-a-fat-jar) are great.  A fat jar bundles everything you need into one convenient archive, ready to go.  Deploying a fat jar is easy: copy the jar to the server and run it.
+[Fat jars](http://stackoverflow.com/questions/19150811/what-is-a-fat-jar) are great.  A fat jar bundles everything you need into one convenient archive, ready to go.  Deploying a fat jar is easy: copy the jar to the server and run it.  It's worth pointing out that fat jars combine very well with Docker - they are easier to use in the Docker context than containers.
 
 ### 3 Reasons to Use a Fat Jar
 
