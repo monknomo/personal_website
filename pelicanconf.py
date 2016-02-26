@@ -9,7 +9,7 @@ SITEURL = 'http://gunnargissel.com'
 #SITEURL = 'http://localhost:8080'
 PLUGIN_PATHS = ['../pelican-plugins']
 PLUGINS = ['assets', 'gravatar','sitemap']
-
+SITEDESCRIPTION='Gunnar Gissel is a programmer for the government.  He writes about Java, living with enterprise idiosyncrasies, automation and building.  Gunnar is his office\'s Jenkins cheerleader and is comfortable with his boots on while dealing with a big ball of mud'
 TIMEZONE = 'America/Juneau'
 
 DEFAULT_LANG = 'en'
@@ -33,7 +33,7 @@ SOCIAL = ()
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
-RELATIVE_URLS = False
+#RELATIVE_URLS = True
 
 SITEMAP = {
         'format': 'xml',
