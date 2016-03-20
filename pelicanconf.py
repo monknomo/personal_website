@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = 'Gunnar Gissel'
 AUTHOR_EMAIL = 'monknomo@gmail.com'
 SITENAME = "Gunnar's Blog"
-SITEURL = 'http://gunnargissel.com'
+SITEURL = 'http://www.gunnargissel.com'
 #SITEURL = 'http://localhost:8080'
 PLUGIN_PATHS = ['../pelican-plugins']
 PLUGINS = ['assets', 'gravatar','sitemap']
@@ -21,7 +21,7 @@ ARTICLE_PATHS=['content']
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
-CATEGORY_FEED_ATOM = None
+CATEGORY_FEED_ATOM = None  
 TRANSLATION_FEED_ATOM = None
 
 # Blogroll
