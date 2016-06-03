@@ -20,7 +20,7 @@ Setting up the BEM Tutorial
 
 After reading the “what is BEM” stuff, I dove right into setting up the [“hello world” tutorial.](https://en.bem.info/technology/bemhtml/v2/intro/)  I already have node and github installed, so I fired up gitbash, and started copy pasting.
 
-The first<sup>[1](#1)</sup> thing I ran into was that `bem server` didn’t quite do what the tutorial said it would.  I expected that command to run a server, so I could check out the demo page, but something went wrong and I had to dive into the documentation to figure out how to actually run a bem server.  For me, the answer was to run `bem server -p 8080 --host=127.0.0.1`.  I assume this is a network or security setting, because the problem seemed to be that a host of `0.0.0.0` wouldn’t work on my machine.
+The first<sup>[1](#my-first-crack-at-bem-1)</sup> thing I ran into was that `bem server` didn’t quite do what the tutorial said it would.  I expected that command to run a server, so I could check out the demo page, but something went wrong and I had to dive into the documentation to figure out how to actually run a bem server.  For me, the answer was to run `bem server -p 8080 --host=127.0.0.1`.  I assume this is a network or security setting, because the problem seemed to be that a host of `0.0.0.0` wouldn’t work on my machine.
 
 I created a test bundle without an trouble and was able to make a bemjson.js that said “hello BEMHTML” without trouble.  Then I tried the part of the tutorial where we make the “hello world” dynamic via BEMHTML.
 
@@ -57,6 +57,6 @@ As soon as I figure out how to make a button with an onclick method, I’ll post
 
 #### Footnotes
 
-<a id="1">1:</a> Well, the real first thing is that I’m on Windows and all the documentation assumes I’m running something Linuxy…  I feel like this is a real problem in the node world.  All us enterprise devs are off in Redmond-land flailing to get stuff made for bash working.
+<a id="my-first-crack-at-bem-1">1:</a> Well, the real first thing is that I’m on Windows and all the documentation assumes I’m running something Linuxy…  I feel like this is a real problem in the node world.  All us enterprise devs are off in Redmond-land flailing to get stuff made for bash working.
 
 
