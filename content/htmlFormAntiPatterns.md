@@ -23,7 +23,7 @@ Losing Data on Validation
 
 Validation is great, everyone should validate user input to their server.  What nobody should ever do is tell the user they gave you something “bad” and then ditch everything they just spent ten minutes typing out.  Someone just tried to engage with you, to have a meaningful conversation with you(!) and you kicked them in the teeth for splitting an infinitive.
 
-[TODO taking out the trash gif]
+<iframe src="//giphy.com/embed/z0X1nuSI6KCXK" width="480" height="362" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/unexpected-trash-z0X1nuSI6KCXK">via GIPHY</a></p>
 
 When a form fails server side validation **DO NOT THROW AWAY THE USER’S DATA!**  You have their data.  Just give it back to them with some red text or a message telling them how to fix whatever it is you need fixed.
 
@@ -32,7 +32,7 @@ Modal Dialogs as Form Validation Messages
 
 Sometimes you really want to get a user’s attention.  You may be tempted to use a modal dialog to display form validation messages.
 
-No. Don’t. Stop. [TODO get a willy wonka gif for here]
+<iframe src="//giphy.com/embed/Bu8ADbj7NuRry" width="480" height="333" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/Bu8ADbj7NuRry">via GIPHY</a></p>
 
 Especially don’t do this on focus lost from each field.  People need to tab around
 
@@ -43,6 +43,8 @@ Inappropriate Security Level
 You need to actually think about what level of security your form needs.  If the form you designed just collects people’s addresses, social security numbers, bank passwords and mother’s maiden names, you need a high level of security.  You should _not_ remember data in this form forever, and maybe not remember it at all.
 
 Hell, data like that should probably be trapped behind a login before the user even gets to enter it.
+
+<iframe src="//giphy.com/embed/xT5LMK8gMdWmjTGwy4" width="480" height="366" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/season-7-the-simpsons-7x22-xT5LMK8gMdWmjTGwy4">via GIPHY</a></p>
 
 If you’re writing a form like the vast majority of the internet is composed of - that is to say trivial nonsense that nobody but you cares about - you don’t need a high level of security.  Please save this data forever (or however long the user is likely to walk away and come back to the computer).
 
