@@ -14,6 +14,8 @@ Losing Data When Users Go Back (or Forward)
 
 Look, people think they should be able to navigate around the web.  They want to go forward, backwards, up, down wherever.  They _will_ get to your form and want to check something on the page they came from.  They will leave your form half filled out and when they come back and they have to type everything again, they will drop kick their computer out the window and send you the bill.
 
+<img src="http://vignette3.wikia.nocookie.net/mlp/images/7/7f/Computer-out-window.jpg/revision/latest?cb=20140728071924"/>
+
 How many users do you lose because your form doesn’t remember what they typed?  I bet you don’t know, because if you do this you don’t bother logging user behavior.
 
 When a user navigates away from a form you should hang onto what they typed for a loooong time.  However long you think is reasonable, multiply it by 7.
