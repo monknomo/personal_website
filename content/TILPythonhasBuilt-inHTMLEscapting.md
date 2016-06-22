@@ -1,6 +1,7 @@
 ﻿Title: TIL Python has Built-in HTML Escaping
 Slug: til-python-has-build-in-html-escaping
 Date: 6/16/2016 18:00
+Modified: 6/16/2016 18:00
 Category: Today I Learned
 Tags: til, python, html, development, programming, wow
 Authors: Gunnar Gissel

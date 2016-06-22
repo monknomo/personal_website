@@ -1,6 +1,7 @@
 ﻿Title: What is Idempotence Infographic
 Slug: what-is-idempotence-infographic
 Date: 6/15/2016 21:00
+Modified: 6/15/2016 21:00
 Category: Web Development
 Tags: infographic, rest, restful, web, development, web-development, http, protocol, explainer, picture, 1000-words
 Authors: Gunnar Gissel
