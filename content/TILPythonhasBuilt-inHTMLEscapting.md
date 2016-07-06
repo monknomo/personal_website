@@ -17,4 +17,4 @@ TIL that [Python has a built in to escape text for html!](http://stackoverflow.c
 This might be old news, but it makes my life easier!  I need to make a quick edit to the [template for this blog.](https://github.com/monknomo/straight-laced)
 
 
-Clearly I've been stuck in the 2.7 world too long!
+Clearly I've been stuck in the 2.7 world too long! 
