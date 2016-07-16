@@ -2,8 +2,8 @@
 Slug: til-python-has-build-in-html-escaping
 Date: 6/16/2016 18:00
 Modified: 6/16/2016 18:00
-Category: Today I Learned
-Tags: til, python, html, development, programming, wow
+Category: TIL
+Tags: til, python, html, development, programming, wow, today-i-learned
 Authors: Gunnar Gissel
 Summary: Python has a built in function to escape text in an html safe way
 
