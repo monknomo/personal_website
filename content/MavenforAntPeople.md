@@ -1,7 +1,7 @@
 ﻿Title: Maven for Ant People
 Slug: maven-for-ant-people
-Modified: 2/2/2016 19:00
-Date: 2/2/2016 19:00
+Modified: 2/2/2017 19:00
+Date: 2/2/2017 19:00
 Category: Programming
 Tags: maven, mvn, ant, java, build, tool, tools, tooling, beginner, how-to, walkthru, tutorial
 Authors: Gunnar Gissel
