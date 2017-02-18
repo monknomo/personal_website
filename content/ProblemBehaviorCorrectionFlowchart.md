@@ -36,7 +36,7 @@ Example Dialog
 ----------------
 
 
-Supervisor: *I see you came in at 9:30 today.  Our doors open at 9, and we expect staff to be here by then.*
+**Supervisor**: *I see you came in at 9:30 today.  Our doors open at 9, and we expect staff to be here by then.*
 
 
 ### Role Clarity Example
