@@ -50,3 +50,8 @@ Resume
 -------
 
 This page serves as a fairly up to date overview of Gunnar's professional activities, but for those inclined, Gunnar keeps his resume up to date at [StackOverflow's public CV](http://stackoverflow.com/cv/gunnargissel)
+
+Just For Fun
+-------------
+
+Gunnar keeps a [personal tumblr blog.](http://monknomo.tumblr.com/)  Gunnar also has a neocities website where he puts his ["just for fun" javascript projects.](https://monknomo.neocities.org/)
