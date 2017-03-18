@@ -8,7 +8,7 @@ Authors: Gunnar Gissel
 Summary: My summary
 
 
-O'Reilly has a great in-depth article on the functional interface in Java 8.  Here's a quick cheat sheet to keep track of the main types, what they do and common use cases.
+[O'Reilly has a great in-depth article on the functional interface in Java 8.](https://www.oreilly.com/learning/java-8-functional-interfaces)  Here's a quick cheat sheet to keep track of the main types, what they do and common use cases.
 
 
 `Predicate`
