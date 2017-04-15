@@ -22,11 +22,15 @@ Sometimes one line is not enough to express the complexity of the lambda.  How d
 
 This is how:
 
+    //set up - elsewhere in the pseudo code:
+    public Sound getSound() throws MuteAnimalException {...}
+    Predicate<Sound> barks = sound -> Sound.valueOf("bark").equals(sound);
 
+
+    //payoff, a multiline lambda
     Predicate<Animal> isDog = animal -> {
         try {
-            return barks.test(animal.getSound()) &&
-            wagsTail.test(animal);
+            return barks.test(animal.getSound());
         } catch (MuteAnimalException e){
             logger.severe(e.getMessage);
             return false;
