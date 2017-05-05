@@ -7,6 +7,8 @@ Tags: java, cucumber, junit, testing, qa, qc
 Authors: Gunnar Gissel
 Summary: Cucumber requires 3 types of files to run as a junit test in Java - this article explains what they are and how to configure them
 
+<a href="https://flic.kr/p/9xmxaQ"><img src="http://i.imgur.com/bgIGcnol.jpg" alt="cucumber growing" title="growing cucumber"></a>
+
 Java cucumber tests have 3 parts.
 
 1. The feature file
@@ -84,3 +86,5 @@ Further Resources
 [Just Enough Regular Expressions for Cucumber](http://agileforall.com/just-enough-regular-expressions-for-cucumber/) is a great guide that explains how to use regexes (and Java) with Cucumber.  The same author also made [a cheatsheet](http://agileforall.com/just-enough-regular-expressions-for-cucumber/) that is a helpful reference.
 
 The [artfight example code.](https://github.com/monknomo/Cucumber-Example-Art-Fight/)
+
+[_Thank you Ali Burçin Titizel for the header image_](https://flic.kr/p/9xmxaQ)
