@@ -6,9 +6,12 @@ Category: Leadership
 Tags: meetings, personal-development, business, soft-skills, leadership
 Authors: Gunnar Gissel
 Summary: Developers attend many meetings.  As the gain experience, they host many meetings.  Practicing effective meeting techniques will help developers not suffer through endless unproductive meetings
+
 As a developer advances in their career, they attend many, many meetings.  "Too many meetings," most developers would say.  [Paul Graham talks about the "maker schedule"](http://www.paulgraham.com/makersschedule.html) which is a model that rings true for me.  A single meeting, especially a poorly run meeting, in the middle of a morning or afternoon, ruins half a day.
 
-<img src="http://i.imgur.com/hjbufuHl.jpg" alt="boring meeting" title="boring meeting></img>
+<a href="https://flic.kr/p/AyZow"><img src="http://i.imgur.com/hjbufuHl.jpg" alt="boring meeting" title="boring meeting"></img></a>
+
+[_Thank you Ville Säävuori_](https://flic.kr/p/AyZow)
 
 Yet, meetings are valuable.  A good meeting can help a team reach consensus, or pitch a new idea to management or create that elusive "synergy" between coworkers.
 
@@ -32,7 +35,11 @@ Sometimes, meeting discontent comes from a lack of clarity about the purpose of 
 Be the Change You Want in the World
 -----------------------------------------------------
 
-<img src="http://i.imgur.com/VtMz5pbm.jpg" alt="empty meeting room" title="empty meeting room"></img>
+<a href="
+https://flic.kr/p/RDTAbb"><img src="http://i.imgur.com/VtMz5pbm.jpg" alt="empty meeting room" title="empty meeting room"></img></a>
+
+[_Thank you Thoroughly Reviewed_](
+https://flic.kr/p/RDTAbb)
 
 Somewhere around mid-career, developers start hosting their own meetings.  Make the world a better place by only hosting meetings that you would want to attend.  
 
@@ -61,7 +68,9 @@ If the meeting scheduled is lengthy, request to break it into smaller meetings, 
 Conclusion
 --------------
 
-<img src="http://i.imgur.com/drm8wg0l.jpg" alt="large meeting" title="large meeting"></img>
+<a href="https://flic.kr/p/dxbSuv"><img src="http://i.imgur.com/drm8wg0l.jpg" alt="large meeting" title="large meeting"></img></a>
+
+[Thank you Ricter Frank-Jurgen](https://flic.kr/p/dxbSuv)
 
 Meetings are inescapable.  As with all things that can't be changed, embrace them and make them your own to lessen your pain.  Meetings don't have to suck - run your meetings so they don't suck, and gently encourage others to improve their meetings.
 
