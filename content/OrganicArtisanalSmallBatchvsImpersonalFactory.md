@@ -1,7 +1,7 @@
 ﻿Title: Organic Artisanal Small Batch vs Impersonal Factory 
 Slug: organic-artisanal-small-batch-vs-impersonal-factory
-Modified: 2/4/2016 06:00
-Date: 2/4/2016 06:00
+Modified: 2/4/2017 06:00
+Date: 2/4/2017 06:00
 Category: Programming
 Tags: programming, culture, method, methodology, mindset, growth, style
 Authors: Gunnar Gissel
