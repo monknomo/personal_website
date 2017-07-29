@@ -5,7 +5,7 @@ Modified: 07/29/2017 10:35
 Category: Programming
 Tags: react, newb, learning
 Authors: Gunnar Gissel
-Summary: My react linter kept giving me an error and nothing I changed in javascript fixed it.  A quick excursion to the server solved all my problems
+Summary: My react linter kept giving me an error and nothing I changed in javascript fixed it.  A quick sprinkling of converters solved my problem
 
 
 <img src="http://i.imgur.com/gAbkVMzl.jpg"/>
