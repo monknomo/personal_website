@@ -5,7 +5,7 @@ Modified: 3/13/2017 18:00
 Category: Programming
 Tags: cheatsheet, how-to, guide, tutorial, functional-programming, java8
 Authors: Gunnar Gissel
-Summary: My summary
+Summary: A cheatsheet for developing with the Java 8 functional interfaces
 
 
 [O'Reilly has a great in-depth article on the functional interface in Java 8.](https://www.oreilly.com/learning/java-8-functional-interfaces)  Here's a quick cheat sheet to keep track of the main types, what they do and common use cases.
