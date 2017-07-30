@@ -7,7 +7,7 @@ Slug: email-signup-1
 Author: Gunnar Gissel 
 Summary: Sign up to get great tech and leadership articles monthly! 
 
-Sign up to get monthly emails with great tech and leadership articles from around the web --------------------------------------------------------------------------------------------- 
+<h2>Sign up to get monthly emails with great tech and leadership articles from around the web</h2>
 
 I will send one email a month with a curated selection of articles from around the web.  I promise - no spam, ever.  I won't sell your email to anybody, ever.  No hassle unsubscribe - if you don't like it you can ghost and I'll try not sob over my subscriber count. 
 
