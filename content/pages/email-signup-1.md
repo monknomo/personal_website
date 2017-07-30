@@ -7,8 +7,10 @@ Slug: email-signup-1
 Author: Gunnar Gissel
 Summary: Sign up to get great tech and leadership articles monthly!
 
-<h1>Sign up to get monthly emails with great tech and leadership articles from around the web</h1>
-<p>I will send one email a month with a curated selection of articles from around the web.  I promise - no spam, ever.  I won't sell your email to anybody, ever.  No hassle unsubscribe - if you don't like it you can ghost and I'll try not sob over my subscriber count.</p>
+Sign up to get monthly emails with great tech and leadership articles from around the web
+---------------------------------------------------------------------------------------------
+
+I will send one email a month with a curated selection of articles from around the web.  I promise - no spam, ever.  I won't sell your email to anybody, ever.  No hassle unsubscribe - if you don't like it you can ghost and I'll try not sob over my subscriber count.
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
