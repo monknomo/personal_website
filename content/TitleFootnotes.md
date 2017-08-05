@@ -7,6 +7,7 @@ Tags: javascript, design, insidebaseball
 Authors: Gunnar Gissel
 Summary: Footnotes are cool, but showing footnotes on hover is cooler
 
+<a href="http://imgur.com/yU7tDJn"><img src="http://i.imgur.com/yU7tDJnm.jpg" title="Books! source: imgur.com" /></a>
 
 I was reading away on the internet [when I saw a cool thing.](http://ignorethecode.net/blog/2010/04/20/footnotes/)  Footnotes that popup when you hover over the little <sup id="fnr-footnotes-1">[1](fn-footnotes-1)</sup> note.
 
@@ -86,5 +87,8 @@ I adjusted the script's color a little to match my theme, but here it is, more o
 
 ## Footnotes
 
-
 <a id="fn-footnotes-1">1: </a> This is an example footnote here - see how it has a return link [⏎](#fnr-footnotes-1)
+
+## Credits
+
+Thank you to (Erica Schoonmaker)[https://www.flickr.com/photos/_erica/] for the picture of the [books](https://flic.kr/p/9EUVrx)
