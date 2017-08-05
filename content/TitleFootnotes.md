@@ -8,7 +8,7 @@ Authors: Gunnar Gissel
 Summary: Footnotes are cool, but showing footnotes on hover is cooler
 
 
-I was reading away on the internet [when I saw a cool thing.](http://ignorethecode.net/blog/2010/04/20/footnotes/)  Footnotes that popup when you hover over the little <pre id="fnr-footnotes-1">[1](fn-footnotes-1)<pre> note.
+I was reading away on the internet [when I saw a cool thing.](http://ignorethecode.net/blog/2010/04/20/footnotes/)  Footnotes that popup when you hover over the little <sup id="fnr-footnotes-1">[1](fn-footnotes-1)<sup> note.
 
 
 Lukas Mathis generously offered his code to the public, so I borrowed the code in his bookmarklet for [Daring Fireball](https://daringfireball.net).  I wasn't quite doing Gruber-style footnotes, which the code assumes.
@@ -25,13 +25,13 @@ A Gruber-style footnote has two parts:
 2. The footnote with a return link
 
 
-The superscript link, in Markdown, looks like this: `<pre id="fnr-footnotes-1">[1](fn-footnotes-1)<pre>`.  The important parts are that the `<pre>` element has an id that starts with "fnr" (for "footnote return", I assume), and a link to the footnote that starts with "fn".
+The superscript link, in Markdown, looks like this: `<sup id="fnr-footnotes-1">[1](fn-footnotes-1)<sup>`.  The important parts are that the `<sup>` element has an id that starts with "fnr" (for "footnote return", I assume), and a link to the footnote that starts with "fn".
 
 
-The footnote with a return link looks like: `<a id="fn-footnotes-1">1: </a> This is an example footnote here - see how it has a return link [⏎](#fnr-footnotes-1)`.  The important parts are the link with an id that starts with "fn" and the return link to the superscript link's `<pre>` element.
+The footnote with a return link looks like: `<a id="fn-footnotes-1">1: </a> This is an example footnote here - see how it has a return link [⏎](#fnr-footnotes-1)`.  The important parts are the link with an id that starts with "fn" and the return link to the superscript link's `<sup>` element.
 
 
-The script I borrowed assumes you have both parts of the Gruber-style footnote, with the appropriate prefixes and return links.
+The script I borrowed assumes you have both parts of the Gruber-style footnote, with the appropriate supfixes and return links.
 
 
 I adjusted the script's color a little to match my theme, but here it is, more or less unchanged from Lukas Mathis' original:
