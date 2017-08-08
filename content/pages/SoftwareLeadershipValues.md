@@ -1,7 +1,7 @@
 ﻿Title: Software Leadership Values
 Slug: software-leadership-values
 Date: 6/16/2017 20:45
-Modified: 8/7/2017 20::00
+Modified: 8/7/2017 20:00
 Category: Meta
 Tags:  meta, leadership, values
 Authors: Gunnar Gissel
