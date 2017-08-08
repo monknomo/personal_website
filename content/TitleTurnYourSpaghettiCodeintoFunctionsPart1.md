@@ -68,21 +68,12 @@ If your code takes mental backflips to match how your stakeholders talk, you're 
 
 Gnarly business rule code is hard to test.  The twists and turns of deeply nested if/else statements are easy to get lost in, easy to forget a branch and sometimes just plain impossible to set up in a testing harness.  No tests mean every change is dangerous - you are one misplaced `}`, or backwards `>` from giving your users a headache.
 
+<img src="http://i.imgur.com/UEHFn8Am.jpg" title="Mutant strawberry" />
 
 Gnarly business rule code seems to encourage devs to mutate the objects it is validating.  I don't know why this is, but I've seen it many times in the wild.  State mutation amps up the testing difficulty by an order of magnitude.  Now, not only must you test for messages and expected errors, but you must detect changes to the object you are validating.  Are they intentional?  Are they correct?
 
 
 Who knows?  I promise no one wrote it down.
-
-
-Another issue with testability is that the errors are not returned.  Instead a string is passed in an mutated.  This is a milder version of a pattern I've seen, where a message collection object is passed to validation methods and mutated.  Sometimes, the validation methods mutate the objects themselves!
-
-
-<img src="http://i.imgur.com/UEHFn8Am.jpg" title="Mutant strawberry" />
-
-
-In worse implementations, the message collection object is a heavy weight object, that requires extensive setup to create, and resources to use.  The 'heavy mutating object pattern' makes setting up a test harness difficult, because getting to the point where you can determine if the correct error message has been returned is an exercise in and of itself.
-
 
 ### Response speed
 
@@ -115,8 +106,8 @@ Example Bad Code
 [Here's an example of standard Java business logic](https://github.com/monknomo/If-Else-Block-Refactoring) that evaluates a business object (`BusinessTransfer`) and creates messages to return to the user if it violates business rules:
 
 
-    public static final void checkWidgetTransfer(WidgetTransfer transfer, String businessRuleErrors) {
-
+    public static final String checkWidgetTransfer(WidgetTransfer transfer) {
+        String businessRuleErrors = "";
 
         if (transfer.getTransferer().getAccount(transfer.getFromAccount()).getBalance().compareTo(transfer.getAmount()) < 0) {
             businessRuleErrors += "Insufficient balance to transfer ; ";
@@ -145,9 +136,9 @@ Example Bad Code
             if (isTotalOverCap(transfer)) {
                 businessRuleErrors += "This transfer is too large. ; ";
             }
-
-
         }
+        
+        return businessRuleErrors;
     }
 
 
@@ -175,8 +166,8 @@ A quick way of refactoring long branching `if/else` code is to dispense with bra
 Another low hanging fruit is to create instance variables to hold values, rather than use getters (or worse, nested getters!).  This gives the ability to name what a thing is in the context you are using it in, rather than relying on getters to have a good name in your context.
 
 
-    public static final void checkWidgetTransfer(WidgetTransfer transfer, String businessRuleErrors) {
-        
+    public static final String checkWidgetTransfer(WidgetTransfer transfer ) {
+        String businessRuleErrors = "";
         Integer balance = transfer.getTransferer().getAccount(transfer.getFromAccount()).getBalance();
         Integer transferAmount = transfer.getAmount();
         String transferTypeCode = transfer.getTransferTypeCode();
@@ -224,7 +215,7 @@ Another low hanging fruit is to create instance variables to hold values, rather
             businessRuleErrors += "This transfer is too large. ; ";
         }
 
-
+        return businessRuleErrors;
     }
     
 ### The Good
