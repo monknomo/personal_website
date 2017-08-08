@@ -3,7 +3,7 @@ Slug: software-leadership-values
 Date: 6/16/2017 20:45
 Modified: 8/7/2017 20::00
 Category: Meta
-Tags:  meta, leadership, values, about
+Tags:  meta, leadership, values
 Authors: Gunnar Gissel
 Summary: A clear conception of values is required to make judgement calls.  Here are 11 values that I believe are important for making good software
 
