@@ -33,6 +33,7 @@ This will teach you how to untangle business rules, so you can easily work with 
 
 ### Readability
 
+<img src="http://i.imgur.com/yU7tDJnm.jpg" title="Books!" />
 
 Deep nesting impairs readability.  Even when developers use tabs well and are consistent with their curly brace usage, around the 3rd layer of if/else statements, it starts getting hard to tell what particular branch you are reading.
 
@@ -111,7 +112,7 @@ Example Bad Code
 -----------------------------
 
 
-Here's an example of standard Java business logic that evaluates a business object (`BusinessTransfer`) and creates messages to return to the user if it violates business rules:
+[Here's an example of standard Java business logic](https://github.com/monknomo/If-Else-Block-Refactoring) that evaluates a business object (`BusinessTransfer`) and creates messages to return to the user if it violates business rules:
 
 
     public static final void checkWidgetTransfer(WidgetTransfer transfer, String businessRuleErrors) {
@@ -284,3 +285,5 @@ _Thank you [Neils Heidenreich](https://www.flickr.com/photos/schoschie/) for the
 
 
 _Thank you [Peter Stevens](https://www.flickr.com/photos/nordique/) for the [Devil's Club](https://flic.kr/p/zfoSkn)_
+
+_Thank you to [Erica Schoonmaker](https://www.flickr.com/photos/_erica/) for the picture of the [books](https://flic.kr/p/9EUVrx)_
