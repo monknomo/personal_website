@@ -103,7 +103,7 @@ Example Bad Code
 -----------------------------
 
 
-[Here's an example of standard Java business logic](https://github.com/monknomo/If-Else-Block-Refactoring) that evaluates a business object (`BusinessTransfer`) and creates messages to return to the user if it violates business rules:
+[Here's an example of standard Java business logic](https://github.com/monknomo/If-Else-Block-Refactoring/tree/master/src/main/java/com/gunnargissel/suemez/businessrulerefactorexample) that evaluates a business object (`BusinessTransfer`) and creates messages to return to the user if it violates business rules:
 
 
     public static final String checkWidgetTransfer(WidgetTransfer transfer) {
@@ -160,7 +160,7 @@ Logic Block Paradigm Shift
 ---------------------------
 
 
-A quick way of refactoring long branching `if/else` code is to dispense with branches and with `elses`.  By rephrasing each business rule into a positive constraint, a developer can check to see if the constraint conditions are met, rather than walking a branching logic tree.  This technique increases line count a little, but improves readability a lot.
+[A quick way of refactoring long branching `if/else` code is to dispense with branches and with `elses`.](https://github.com/monknomo/If-Else-Block-Refactoring/tree/master/src/main/java/com/gunnargissel/suemez/businessrulerefactorexample/refactor1)  By rephrasing each business rule into a positive constraint, a developer can check to see if the constraint conditions are met, rather than walking a branching logic tree.  This technique increases line count a little, but improves readability a lot.
 
 
 Another low hanging fruit is to create instance variables to hold values, rather than use getters (or worse, nested getters!).  This gives the ability to name what a thing is in the context you are using it in, rather than relying on getters to have a good name in your context.
