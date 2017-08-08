@@ -91,4 +91,4 @@ I adjusted the script's color a little to match my theme, but here it is, more o
 
 ## Credits
 
-Thank you to [Erica Schoonmaker](https://www.flickr.com/photos/_erica/) for the picture of the [books](https://flic.kr/p/9EUVrx)
+_Thank you to [Erica Schoonmaker](https://www.flickr.com/photos/_erica/) for the picture of the [books](https://flic.kr/p/9EUVrx)_
