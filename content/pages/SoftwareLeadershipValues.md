@@ -1,7 +1,7 @@
 ﻿Title: Software Leadership Values
 Slug: software-leadership-values
 Date: 6/16/2017 20:45
-Modified: 6/16/2017 20:45
+Modified: 8/7/2017 20::00
 Category: Meta
 Tags:  meta, leadership, values, about
 Authors: Gunnar Gissel
@@ -59,6 +59,9 @@ I don't know everything; nobody does.  People with the same background as I have
 Mosaics make better art - each individual piece comprising a great whole.  [Chagall's _Four Seasons_](https://en.wikipedia.org/wiki/Four_Seasons_\(Chagall\)) is better than [Malevich's _Black Square_](https://en.wikipedia.org/wiki/Black_Square_\(painting\))
 
 
+[McKinsey & Company](http://www.mckinsey.com/business-functions/organization/our-insights/why-diversity-matters) says a diverse company outperforms a non-diverse company by 35%!
+
+
 Making sure applications work for everyone is a good thing - especially when they are required-by-law federal government applications.  Ensuring good accessibility is not quite hard, but there are a lot of moving pieces and things to consider.  I designed a series of icons to indicate statuses.  Two of them were a green and a red circle to indicate "Checked In" and "Checked Out".  A colorblind coworker pointed out that the icons were hard to distinguish for the color blind.  I incorporated my coworker's feedback and changed "Checked Out" to be a black square and added a tooltip to both, improving the accessibility of the application.
 
 
@@ -111,11 +114,23 @@ Programmers must learn constantly as a primary function of their job.  Programmi
 The key to building an organization that effectively uses programming is to ensure programmers do not lock this knowledge up in their skulls.  They _need_ to share, and not only that, developers typically _like_ to share.
 
 
+I've been fortunate on my development path; the organizations I've worked for are very supportive of training and resources for learning and growth.  When I started at NOAA, developers could go to two out of town conferences/year with the condition that they presented what they learned when they got back.  We've since expanded to a standing hour slot on Thursdays for demoing tech-things that we've learned.  Our goal is to make sharing learning so normal that it is boring.
+
+
 We should maximize team happiness, but not spend a lot of time min-maxing
 ---------------------------------------------------------------------------
 
 
-Decision points where two options are roughly equal should go to the option that increases team happiness.  It is more important that a decision is made, however, than the absolute 'best' decision is made.  Teams and their morale suffer when 
+Decision points where two options are roughly equal should go to the option that increases team happiness.  It is more important that a decision is made, however, than the absolute 'best' decision is made.  Teams and their morale suffer when too much time is spent dithering over options.
+
+
+Part of leadership is noticing when a team can't make up its own mind and deciding for them.  It may be that the decision is not an imperial, "Thou shalt do option A and only option A", but a diplomatic, "We've carefully evaluated options A and B.  They are both strong contenders, but based on blah, we are going to use option A for the time being".  Teams are happier when they feel like they have clear direction and guidance.
+
+
+I've worked much of my career in positions that are in between supervisors.  My supervisors have quit, transferred, been promoted and died.  Whatever the reason, acting supervisors aren't typically able to fill the role of a full time permanent supervisor because they know they'll be returning to their old relationship to the team in a short while.  The upshot is that I've spent a lot of time engaging in collaborative decision making with team members.
+
+
+We have a solid team, and usually we can come to a consensus decision, or at least a consensus decision process without any trouble.  The times when we have had a unresolvable disagreement have been amicable, but without a designated leader to break the tie they bog us down.  A leader who can move the team past these knots of disagreement is valuable.
 
 
 We should use the best tool for each job
