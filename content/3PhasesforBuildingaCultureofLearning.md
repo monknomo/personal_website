@@ -42,7 +42,7 @@ This is a dangerous intermediate phase, where some culture building has happened
 * New hires have some kind of organized learning
 * Team members want more, but aren't empowered
 * __Approach__
-    * leverage internal experts (workshops, talks)
+    * Leverage internal experts (workshops, talks)
     * Seed good role models (and shame everyone else)
     * Mentor mentors (mentorship is an orthogonal skillset to what you do at work)
     * __Examples__
@@ -68,7 +68,7 @@ This is the final phase, that takes management buy in, re-programming existing e
     * Sustained learning    
     * Make people forget the old way
     * __Examples__
-        * learning/teaching as a KIP
+        * Learning/teaching as a KIP
         * Apprenticeships
         * 3 part onboarding
             * Teach skills
@@ -78,7 +78,7 @@ This is the final phase, that takes management buy in, re-programming existing e
     * __Dangers__
         * Payoffs hard to measure
         * No one is responsible
-        * losing the habit
+        * Losing the habit
         
 Self Sustaining
 -----------------
