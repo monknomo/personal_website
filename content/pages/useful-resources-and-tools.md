@@ -60,7 +60,7 @@ Drawing Tools
 Websites
 ============
 
-* [dev.to](https://dev.to) :)
+* [dev.to](https://dev.to) 
     * dev.to is a great website for general programming articles.  It has an incredibly welcoming community, and 
 * [Hacker News](https://news.ycombinator.com)
     * Hacker News is so-so on community, IMHO, but is still a very good place to find the big headlines and fads of the tech world
