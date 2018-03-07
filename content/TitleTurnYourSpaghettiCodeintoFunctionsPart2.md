@@ -162,7 +162,7 @@ There is very little bad about this refactor point.  The conditionals are all ve
 Next Steps
 ------------
 
-<img src="https://i.imgur.com/N5Xf1IB.png" title="elephant driving a convertible citroen" alt="elephant driving a convertible citroen" />
+<img src="https://i.imgur.com/N5Xf1IBl.png" title="elephant driving a convertible citroen" alt="elephant driving a convertible citroen" />
 
 All our rules are Predicates and each rule takes the same kind of object, a `WidgetTransfer`.  That makes our rule composable in the fashion demonstrated above, but there are some improvements we can make to how we compose the business rules.
 
