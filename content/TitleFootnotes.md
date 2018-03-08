@@ -26,7 +26,7 @@ A Gruber-style footnote has two parts:
 2. The footnote with a return link
 
 
-The superscript link, in Markdown, looks like this: `<sup id="fnr-footnotes-1">[1](fn-footnotes-1)</sup>`.  The important parts are that the `<sup>` element has an id that starts with "fnr" (for "footnote return", I assume), and a link to the footnote that starts with "fn".
+The superscript link, in Markdown, looks like this: `<sup id="fnr-footnotes-1">[1](#fn-footnotes-1)</sup>`.  The important parts are that the `<sup>` element has an id that starts with "fnr" (for "footnote return", I assume), and a link to the footnote that starts with "fn".
 
 
 The footnote with a return link looks like: `<a id="fn-footnotes-1">1: </a> This is an example footnote here - see how it has a return link [⏎](#fnr-footnotes-1)`.  The important parts are the link with an id that starts with "fn" and the return link to the superscript link's `<sup>` element.
