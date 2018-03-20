@@ -17,7 +17,7 @@ Gunnar currently works for NOAA National Marine Fisheries, writing software to m
 Contact
 -----------
 
-You can contact Gunnar at his email, ggissel@alumni.cmu.edu or Twitter @monknomo.  Please feel free to get in touch, don't be shy
+You can contact Gunnar at his email, gunnar@gunnargissel.com or [@monknomo on Twitter](https://twitter.com/monknomo).  Please feel free to get in touch, don't be shy
 
 Work Projects
 ---------------------
