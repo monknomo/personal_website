@@ -1,7 +1,7 @@
 Title: Turn Your Spaghetti Code into Functions - Part 3
 Slug: turn-your-spaghetti-code-into-functions-part-3
 Date: 11/10/2017 11:15
-Modified: 3/19/2017 20:07
+Modified: 3/19/2018 20:07
 Category: Programming
 Tags: java, technique, diy, how-to, tutorial, guide, lambda, function, refactor
 Authors: Gunnar Gissel
