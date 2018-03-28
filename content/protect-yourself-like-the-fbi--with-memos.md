@@ -7,7 +7,7 @@ Tags: career, productivity, leadership, workplace
 Authors: Gunnar Gissel
 Summary: Learn how to use the same techniques to protect yourself as a programmer
 
-<img src="https://thepracticaldev.s3.amazonaws.com/i/d8p6p89znmaskm9s8udm.jpg" alt="Lots of paper" title="Paper memos"/>
+<img src="https://i.imgur.com/RinZ2A1l.jpg" alt="Lots of paper" title="Paper memos"/>
 
 Donald Trump has been in the news a lot lately.  Especially concerning FBI investigations and memos.  It seems like everyone in Washington is fighting with memos - [Comey](https://www.theatlantic.com/politics/archive/2017/05/congress-reacts-to-comey-memo-report/526947/), [McCabe](https://www.politico.com/story/2018/03/17/mccabe-memo-trump-fbi-469097), [Nunes](https://www.theatlantic.com/politics/archive/2018/02/read-the-full-text-of-the-nunes-memo/552191/) - [the list goes on and on](https://news.google.com/news/search/section/q/trump%20memo/trump%20memo?hl=en&gl=US&ned=us).
 
