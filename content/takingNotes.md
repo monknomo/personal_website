@@ -4,14 +4,14 @@ Slug: taking-notes
 Date: 5/14/2018 07:00
 Modified: 5/14/2018 07:00
 Category: Meta
-Tags: productivity, management, process, how-to
+Tags: productivity, management, process, how-to, notes, journal, memo
 Authors: Gunnar Gissel
 Summary: I love taking notes, and I love talking about taking notes.  This is how I personally take notes, and I'd love to hear about how you all take notes!
 
-<img src="https://thepracticaldev.s3.amazonaws.com/i/ap57g5shmjupra6trf0z.png"/>
-
 Notes!
----------
+=======
+
+<img src="https://thepracticaldev.s3.amazonaws.com/i/ap57g5shmjupra6trf0z.png"/>
 
 I wrote earlier about <a href="https://www.gunnargissel.com/protect-yourself-like-the-fbi--with-memos.html"/>_why_ you might take notes.</a>  Here's _how_ I take notes:
 
