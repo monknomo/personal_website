@@ -1,4 +1,3 @@
-
 Title: Taking Notes
 Slug: taking-notes
 Date: 5/14/2018 07:00
@@ -7,9 +6,6 @@ Category: Meta
 Tags: productivity, management, process, how-to, notes, journal, memo
 Authors: Gunnar Gissel
 Summary: I love taking notes, and I love talking about taking notes.  This is how I personally take notes, and I'd love to hear about how you all take notes!
-
-Notes!
-=======
 
 <img src="https://thepracticaldev.s3.amazonaws.com/i/ap57g5shmjupra6trf0z.png"/>
 
