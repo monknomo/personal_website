@@ -7,8 +7,6 @@ Tags: productivity, management, process, how-to, notes, journal, memo
 Authors: Gunnar Gissel
 Summary: I love taking notes, and I love talking about taking notes.  This is how I personally take notes, and I'd love to hear about how you all take notes!
 
-<img src="https://thepracticaldev.s3.amazonaws.com/i/ap57g5shmjupra6trf0z.png"/>
-
 I wrote earlier about <a href="https://www.gunnargissel.com/protect-yourself-like-the-fbi--with-memos.html"/>_why_ you might take notes.</a>  Here's _how_ I take notes:
 
 I've tried a lot of systems.  I've tried Evernote.  I've tried a wiki (several wikis, really).  I've tried text files on the filesystem.  I've tried Google Drive.  None of these systems worked for me.  Their organizational schemes, and the fact that I need a working computer to use them puts too many barriers between me, and the notes I want to write.
