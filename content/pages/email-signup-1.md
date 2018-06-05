@@ -6,6 +6,7 @@ Tags: email
 Slug: email-signup-1 
 Author: Gunnar Gissel 
 Summary: Sign up to get great tech and leadership articles monthly! 
+Status: hidden
 
 <h2>Sign up to get monthly emails with great tech and leadership articles from around the web</h2>
 
