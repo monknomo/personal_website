@@ -7,6 +7,8 @@ Tags:  java, fp, design, tips
 Authors: Gunnar Gissel
 Summary: How to make an immutable object, in Java.  Including common gotchas, design pattern considerations and what to do with bad data.
 cover_image: https://thepracticaldev.s3.amazonaws.com/i/hp1iz5pl5a2c4eakl6qa.png
+author_facebook_id: gunnar.gissel
+author_twitter: monknomo
 
 <a name="making-an-immutable-object"></a>
 Immutable objects are objects that don't change.  You make them, then you can't change them.  Instead, if you want to change an immutable object, you must clone it and change the clone while you are creating it.
