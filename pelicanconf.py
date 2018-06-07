@@ -1,11 +1,11 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
-
+from urllib.parse import quote_plus
 AUTHOR = 'Gunnar Gissel'
 AUTHOR_EMAIL = 'monknomo@gmail.com'
 SITENAME = "Gunnar's Blog"
-SITEURL = 'http://www.gunnargissel.com'
+SITEURL = 'https://www.gunnargissel.com'
 #SITEURL = 'http://localhost:8080'
 PLUGIN_PATHS = ['../pelican-plugins']
 PLUGINS = ['assets', 'gravatar','sitemap']
@@ -15,6 +15,23 @@ TIMEZONE = 'America/Juneau'
 DEFAULT_LANG = 'en'
 
 THEME = '../straight-laced'
+
+DEVTO_USERNAME = 'monknomo'
+DEVTO_ALT_TEXT = 'Gunnar Gissel\'s DEV Profile'
+
+LOGO = {'small': "<div class='logo logo--small'></div>",
+    'medium': "<div class='logo logo--medium'></div>",
+    'large': "<div class='logo logo--large'></div>",
+    'xtralarge':"<div class='logo logo--xtralarge'></div>",
+    'png':"theme/images/logo.png"}
+
+JINJA_FILTERS= {'url_quote':lambda u: quote_plus(u)}
+
+TWITTER_USERNAME='monknomo'
+TWEET_CAPTION='Another great blog post!\n'
+
+FACEBOOK_ID='4801181'
+FACEBOOK_APP_ID='962146893962636'
 
 PAGE_PATHS=['content/pages']
 ARTICLE_PATHS=['content']
