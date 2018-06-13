@@ -1,4 +1,4 @@
-Title: Map in Java Stream, What is it?
+Title: Map in a Java Stream, What is it?
 Slug: map-in-java-stream
 Date: 6/13/2018 07:00
 Modified: 6/13/2018 07:00
