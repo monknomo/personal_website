@@ -27,4 +27,4 @@ You can do that, with Java:
         return  fruit;
     }).collect(Collectors.asSet);
 
-Go forth and go wild with mapping!
+Have fun out there, and map all the things!
