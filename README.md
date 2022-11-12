@@ -22,8 +22,8 @@ these are for windows, using a wsl subsystem.  I personally used Ubuntu.
 1. clone [straight-laced](https://github.com/monknomo/straight-laced) to sibling dir
 1. clone [pelican plugins](https://github.com/getpelican/pelican-plugins.git) to sibling dir
 1. build with pelican
-  1. `pelican`
-  1. or, you know, sometimes it seems like `python -m pelican` does the trick, depending on how pip installs stuff
+  1. `pelican -o ./docs`
+  1. or, you know, sometimes it seems like `python -m pelican -o ./docs` does the trick, depending on how pip installs stuff
 1. view results
   1. run `python serv.py`
   1. navigate to localhost:8080 in the browser

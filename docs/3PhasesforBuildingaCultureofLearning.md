@@ -7,9 +7,9 @@ Tags: leadership, culture, learning, notes, talks, conferences
 Authors: Gunnar Gissel
 Summary: Joseph Matsey identifies 3 phases of building a culture of learning - I describe my takeaways from his talk at Abstractions
 
-<img src="http://i.imgur.com/3a2hPoul.jpg" title="Hammerschlag Hall at CMU"/>
+<img src="https://i.imgur.com/3a2hPoul.jpg" title="Hammerschlag Hall at CMU"/>
 
-I attended [Joseph Matsey's](http://josephmastey.com/) talk on building a culture of learning at [Abstraction's](http://abstractions.io/) last year.  I really enjoyed the talk, and have been thinking about and implementing ideas from it over the past year.  Here's a summary of my takeaway for the 3 different phases of culture building (with a bonus 4th phase, of "you have a culture")
+I attended [Joseph Matsey's](https://josephmastey.com/) talk on building a culture of learning at [Abstraction's](https://abstractions.io/) last year.  I really enjoyed the talk, and have been thinking about and implementing ideas from it over the past year.  Here's a summary of my takeaway for the 3 different phases of culture building (with a bonus 4th phase, of "you have a culture")
 
 Guerilla Learning
 --------------------------

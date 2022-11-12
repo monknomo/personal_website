@@ -18,9 +18,9 @@ Tools
 Writing Tools
 --------------
 
-* [Hemingway App](http://www.hemingwayapp.com/)
+* [Hemingway App](https://www.hemingwayapp.com/)
     * Hemingway App is a great website (or app!) that helps pare down your writing into direct, adverb-less prose.  I like it as an editing tool, although I take it with a grain of salt because I prefer my writing to be a touch more florid than Hemingway
-* [Swagger RESTful API documentation tools](http://swagger.io/swagger-ui/)
+* [Swagger RESTful API documentation tools](https://swagger.io/swagger-ui/)
     * If you have a RESTful API, you ought to document it.  Since you're documenting it on the web, why not make the documentation talk to your API?  Swagger makes it easy to write the docs, and it makes the docs incredibly useful by automatically creating a way for readers to interact with your API
 
 Editors
@@ -40,7 +40,7 @@ Useful Windows Tools
     * For the time being, if you want ssh on Windows, putty is the place to go.  Hopefully this changes for future versions of Windows.
 * [smarTTY](https://smartty.sysprogs.com/)
     * smarTTY is a friendlier ssh client for Windows.  It allows for tabbed sessions, remembers servers you've connected to, and can handle doing key exchanges automatically.  It can't do everything - if you need to authenticate with a CAC card, you'r stuck with putty.
-* [7-zip](http://www.7-zip.org/)
+* [7-zip](https://www.7-zip.org/)
     * 7-zip unzips just about anything
 * [Cygwin](https://www.cygwin.com/)
     * If you are on Windows, aren't aren't in an organization that lets you use the super sweet Linux subsystem, Cygwin is the next best thing.
@@ -54,7 +54,7 @@ Drawing Tools
    * Vector art tool - sometimes you want an svg, but you don't want to pony up for Illustrator.  Inkscape has your back
 * [Gimp](https://www.gimp.org/)
    * Gimp isn't as good as photoshop, but for editing pictures, resizing stuff and photoshopping two images together, it is good enough.
-* [Graphviz](http://graphviz.org/)
+* [Graphviz](https://graphviz.org/)
    * Easy graphs!  Not the regular kind of graphs, but the mathematical kind of interrelated nodes.  My main beef is that it doesn't always order the nodes the way I want, but it gets the job done.
 
 Websites

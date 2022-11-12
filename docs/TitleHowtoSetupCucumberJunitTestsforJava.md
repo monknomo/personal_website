@@ -7,7 +7,7 @@ Tags: java, cucumber, junit, testing, qa, qc
 Authors: Gunnar Gissel
 Summary: Cucumber requires 3 types of files to run as a junit test in Java - this article explains what they are and how to configure them
 
-<a href="https://flic.kr/p/9xmxaQ"><img src="http://i.imgur.com/bgIGcnol.jpg" alt="cucumber growing" title="growing cucumber"></a>
+<a href="https://flic.kr/p/9xmxaQ"><img src="https://i.imgur.com/bgIGcnol.jpg" alt="cucumber growing" title="growing cucumber"></a>
 
 Java cucumber tests have 3 parts.
 
@@ -41,7 +41,7 @@ Let's put the feature files under test/resources.  Let's put the junit classes u
 
 ###Behavior Scenario
 
-For this example, we are creating the business engine for an art supply store.  Let's use [Stuart Semple](http://stuartsemple.com/projects/black-v1-0-beta-worlds-mattest-flattest-black-art-material/) as an example.  Stuart Semple sells "Black 2.0 - The world's mattest, flattest, black art material" to everyone except [Anish Kapoor.](http://anishkapoor.com/)  There's [a bit of a backstory.](https://www.format.com/magazine/features/art/anish-kapoor-stuart-semple-vantablack-blackest-black)
+For this example, we are creating the business engine for an art supply store.  Let's use [Stuart Semple](https://stuartsemple.com/projects/black-v1-0-beta-worlds-mattest-flattest-black-art-material/) as an example.  Stuart Semple sells "Black 2.0 - The world's mattest, flattest, black art material" to everyone except [Anish Kapoor.](https://anishkapoor.com/)  There's [a bit of a backstory.](https://www.format.com/magazine/features/art/anish-kapoor-stuart-semple-vantablack-blackest-black)
 
 Here's what a feature file might look like, `no_anish_kapoor.feature`:
 
@@ -83,7 +83,7 @@ After creating the necessary files, running `mvn test` will execute the feature 
 Further Resources
 -------------------
 
-[Just Enough Regular Expressions for Cucumber](http://agileforall.com/just-enough-regular-expressions-for-cucumber/) is a great guide that explains how to use regexes (and Java) with Cucumber.  The same author also made [a cheatsheet](http://agileforall.com/just-enough-regular-expressions-for-cucumber/) that is a helpful reference.
+[Just Enough Regular Expressions for Cucumber](https://agileforall.com/just-enough-regular-expressions-for-cucumber/) is a great guide that explains how to use regexes (and Java) with Cucumber.  The same author also made [a cheatsheet](https://agileforall.com/just-enough-regular-expressions-for-cucumber/) that is a helpful reference.
 
 The [artfight example code.](https://github.com/monknomo/Cucumber-Example-Art-Fight/)
 

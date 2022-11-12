@@ -14,4 +14,4 @@ I've been test driving Atom.js and I like it pretty well.  Something I don't lik
 In the left hand pane, at the bottom of the text there is a checkbox that disables the Welcome Guide.  I think it's pretty hard to see, at least with the dark theme, but just uncheck it and you are good to go.
 
 
-<img src="http://i.imgur.com/DZQ16Xt.png"/>
+<img src="https://i.imgur.com/DZQ16Xt.png"/>

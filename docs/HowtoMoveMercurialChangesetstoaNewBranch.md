@@ -13,7 +13,7 @@ Summary: Sometimes you put your code in the wrong branch, but catch it in time t
 This is me when I realize I've been committing in the wrong branch all day:
 
 
-<iframe src="//giphy.com/embed/l41lSR9xZubfd2Qve?html5=true" width="480" height="268" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/foxtv-office-l41lSR9xZubfd2Qve">via GIPHY</a></p>
+<iframe src="//giphy.com/embed/l41lSR9xZubfd2Qve?html5=true" width="480" height="268" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/foxtv-office-l41lSR9xZubfd2Qve">via GIPHY</a></p>
 
 
 Fortunately, there is a way to move changesets between branches, provided you haven't pushed your changes out to any other repositories.  If you have pushed your changes out to the mothership repository, or your coworkers, the only way to pick up the pieces is to get all the users of the repo together and coordinate.  That is beyond to scope of this article, and too hard for all but the smallest or dictatorial teams.
@@ -40,7 +40,7 @@ Here at Reci-p.com we make recipes and sell advertising.  I've been hard at work
 I want to add drink recipes, but they aren't ready to show to our valuable users, so I want to add them in a development branch.  Unfortunately, I've been out all night sampling drink recipes and I forget to create the new branch!  
 
 
-<iframe src="//giphy.com/embed/e3FaCx7T425qg?html5=true" width="480" height="269" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/e3FaCx7T425qg">via GIPHY</a></p>
+<iframe src="//giphy.com/embed/e3FaCx7T425qg?html5=true" width="480" height="269" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/e3FaCx7T425qg">via GIPHY</a></p>
 
 
 This is what I end up with:
@@ -136,4 +136,4 @@ Phew, my repository is fixed.  Now when look at the history I can see that I've 
 Now I'm safe to push and I won't accidentally pollute our recipes with drink mixing recipes
 
 
-<iframe src="//giphy.com/embed/J4ufHCZTcroys?html5=true" width="480" height="258" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/party-hard-adventure-time-J4ufHCZTcroys">via GIPHY</a></p>
+<iframe src="//giphy.com/embed/J4ufHCZTcroys?html5=true" width="480" height="258" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/party-hard-adventure-time-J4ufHCZTcroys">via GIPHY</a></p>

@@ -14,7 +14,7 @@ Losing Data When Users Go Back (or Forward)
 
 Look, people think they should be able to navigate around the web.  They want to go forward, backwards, up, down wherever.  They _will_ get to your form and want to check something on the page they came from.  They will leave your form half filled out and when they come back and they have to type everything again, they will drop kick their computer out the window and send you the bill.
 
-<img src="http://vignette3.wikia.nocookie.net/mlp/images/7/7f/Computer-out-window.jpg/revision/latest?cb=20140728071924"/>
+<img src="https://vignette3.wikia.nocookie.net/mlp/images/7/7f/Computer-out-window.jpg/revision/latest?cb=20140728071924"/>
 
 How many users do you lose because your form doesn’t remember what they typed?  I bet you don’t know, because if you do this you don’t bother logging user behavior.
 
@@ -25,7 +25,7 @@ Losing Data on Validation
 
 Validation is great, everyone should validate user input to their server.  What nobody should ever do is tell the user they gave you something “bad” and then ditch everything they just spent ten minutes typing out.  Someone just tried to engage with you, to have a meaningful conversation with you(!) and you kicked them in the teeth for splitting an infinitive.
 
-<iframe src="//giphy.com/embed/z0X1nuSI6KCXK" width="480" height="362" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/unexpected-trash-z0X1nuSI6KCXK">via GIPHY</a></p>
+<iframe src="//giphy.com/embed/z0X1nuSI6KCXK" width="480" height="362" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/unexpected-trash-z0X1nuSI6KCXK">via GIPHY</a></p>
 
 When a form fails server side validation **DO NOT THROW AWAY THE USER’S DATA!**  You have their data.  Just give it back to them with some red text or a message telling them how to fix whatever it is you need fixed.
 
@@ -34,7 +34,7 @@ Modal Dialogs as Form Validation Messages
 
 Sometimes you really want to get a user’s attention.  You may be tempted to use a modal dialog to display form validation messages.
 
-<iframe src="//giphy.com/embed/Bu8ADbj7NuRry" width="480" height="333" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/Bu8ADbj7NuRry">via GIPHY</a></p>
+<iframe src="//giphy.com/embed/Bu8ADbj7NuRry" width="480" height="333" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Bu8ADbj7NuRry">via GIPHY</a></p>
 
 Especially don’t do this on focus lost from each field.  People need to tab around
 
@@ -46,7 +46,7 @@ You need to actually think about what level of security your form needs.  If the
 
 Hell, data like that should probably be trapped behind a login before the user even gets to enter it.
 
-<iframe src="//giphy.com/embed/xT5LMK8gMdWmjTGwy4" width="480" height="366" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/season-7-the-simpsons-7x22-xT5LMK8gMdWmjTGwy4">via GIPHY</a></p>
+<iframe src="//giphy.com/embed/xT5LMK8gMdWmjTGwy4" width="480" height="366" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/season-7-the-simpsons-7x22-xT5LMK8gMdWmjTGwy4">via GIPHY</a></p>
 
 If you’re writing a form like the vast majority of the internet is composed of - that is to say trivial nonsense that nobody but you cares about - you don’t need a high level of security.  Please save this data forever (or however long the user is likely to walk away and come back to the computer).
 

@@ -1,0 +1,50 @@
+#container{padding:1em;margin:0 auto;max-width:100%}article.blogpost{max-width:60em;border:dotted;padding:1em;margin-bottom:1em;border-radius:1em;-moz-border-radius:1em;-webkit-border-radius:1em;-khtml-border-radius:1em;}header.blogpost{padding:0}aside.blogpost{max-width:10em;display:block}@media screen and (min-width:30em) and (max-width:63.236em){aside.blogpost{max-width:5em;display:block}article.blogpost{border:dotted;max-width:30em}#container{max-width:30em}}
+
+span.pageTitleContainer{
+    display:flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.logo
+{
+    float:left;
+    border-radius: 50%;
+    background: linear-gradient(
+  to top,
+  rgb(69,130,236) 2%, white 2%,
+  white 17.1875%, rgb(69,130,236) 17.1875%,
+  rgb(69,130,236) 20.1875%, white 20.1875%,
+  white 30.3125%, rgb(69,130,236) 30.3125%,
+  rgb(69,130,236) 34.8125%, white 34.8125%,
+  white 41.5625%, rgb(69,130,236) 41.5625%,
+  rgb(69,130,236) 46.0625%, white 46.0625%,
+  white 50.5625%, rgb(69,130,236) 50.5625%,
+  rgb(69,130,236) 57.3125%, white 57.3125%,
+  white 60.3125%, rgb(69,130,236) 60.3125%,
+  rgb(69,130,236) 70.4375%, white 70.4375%,
+  white 72.4375%, rgb(69,130,236) 72.4375%,
+  rgb(69,130,236) 87.625%, white 87.625%,
+  white 88.958%, rgb(69,130,236) 88.958%
+  );
+}
+
+.logo--small {
+  height:1em;
+  width:1em;
+}
+
+.logo--medium {
+  height:5em;
+  width:5em;
+}
+
+.logo--large {
+  height:10em;
+  width:10em;
+}
+
+.logo--xtralarge {
+  height:20em;
+  width:20em;
+}

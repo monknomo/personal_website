@@ -84,7 +84,7 @@ I don't know everything; nobody does.  People with the same background as I have
 Mosaics make better art - each individual piece comprising a great whole.  [Chagall's _Four Seasons_](https://en.wikipedia.org/wiki/Four_Seasons_\(Chagall\)) is better than [Malevich's _Black Square_](https://en.wikipedia.org/wiki/Black_Square_\(painting\))
 
 
-[McKinsey & Company](http://www.mckinsey.com/business-functions/organization/our-insights/why-diversity-matters) says a diverse company outperforms a non-diverse company by 35%!
+[McKinsey & Company](https://www.mckinsey.com/business-functions/organization/our-insights/why-diversity-matters) says a diverse company outperforms a non-diverse company by 35%!
 
 
 Making sure applications work for everyone is a good thing - especially when they are required-by-law federal government applications.  Ensuring good accessibility is not quite hard, but there are a lot of moving pieces and things to consider.  I designed a series of icons to indicate statuses.  Two of them were a green and a red circle to indicate "Checked In" and "Checked Out".  A colorblind coworker pointed out that the icons were hard to distinguish for the color blind.  I incorporated my coworker's feedback and changed "Checked Out" to be a black square and added a tooltip to both, improving the accessibility of the application.

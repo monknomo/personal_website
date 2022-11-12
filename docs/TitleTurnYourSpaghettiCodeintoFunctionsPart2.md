@@ -7,7 +7,7 @@ Tags: java, technique, diy, how-to, tutorial, guide, lambda, function, refactor
 Authors: Gunnar Gissel
 Summary: How Predicates can help clean your code, and how to start using them
 
-Read [Part 1,](http://www.gunnargissel.com/turn-your-spaghetti-code-into-functions-part-1.html) first.
+Read [Part 1,](https://www.gunnargissel.com/turn-your-spaghetti-code-into-functions-part-1.html) first.
 
 In Part 1, we started with [an example of common business logic code,](https://github.com/monknomo/If-Else-Block-Refactoring/blob/master/src/main/java/com/gunnargissel/suemez/businessrulerefactorexample/BusinessRulesEngine.java) and an analogy based on cramming an elephant into a Smart Car. We did some refactoring to untangle the nested if/else blocks, but we left after we finished cramming the elephant into a Smart Car.
 
@@ -168,7 +168,7 @@ All our rules are Predicates and each rule takes the same kind of object, a `Wid
 
 The first improvement is to combine small rules into larger rules - we are doing this in conditional statements, but it is just as easy to do so in a Predicate.  We can also create a `Validator` object to create a collection of business rules and error messages.  A `Validator` dispenses with the need to create a complex nested if/else logic structure, and is a concrete unit of business logic that can be shared, re-used and tested.
 
-[Sign up for my email list to get notifcations about updates in continuing series, and a monthly digest of interesting programming and tech leadership articles](http://www.gunnargissel.com/pages/email-signup-1.html)
+[Sign up for my email list to get notifcations about updates in continuing series, and a monthly digest of interesting programming and tech leadership articles](https://www.gunnargissel.com/pages/email-signup-1.html)
 
 We will go over using `Validators` in the to-be-written _Turn Your Spaghetti Code into Functions, Part III_
 

@@ -23,7 +23,7 @@ The short explanation is that when a team member is explaining something complic
 Whiteboarding to Learn
 -------------------------------
 
-<a href="https://www.flickr.com/photos/jemimus/"><img src="http://i.imgur.com/DN7XvB0m.jpg" title="Whiteboard to Learn" /></a>
+<a href="https://www.flickr.com/photos/jemimus/"><img src="https://i.imgur.com/DN7XvB0m.jpg" title="Whiteboard to Learn" /></a>
 
 [Credit jemimus @ Flickr](https://www.flickr.com/photos/jemimus/)
 
@@ -43,7 +43,7 @@ Typically during drawing the team will have suggestions about naming things, or 
 Whiteboarding to Teach
 --------------------------------
 
-<a href="https://www.flickr.com/photos/juhansonin/"><img src="http://i.imgur.com/lebOsZJm.jpg" title="Teaching with a whiteboard" alt="Teaching with a whiteboard" /></a>
+<a href="https://www.flickr.com/photos/juhansonin/"><img src="https://i.imgur.com/lebOsZJm.jpg" title="Teaching with a whiteboard" alt="Teaching with a whiteboard" /></a>
 
 [Credit juhansonin @ Flickr](https://www.flickr.com/photos/juhansonin/)
 
@@ -65,7 +65,7 @@ This has the added benefit that the teacher can see what they are not explaining
 Whiteboarding to Communicate
 ----------------------------------------
 
-<a href="https://www.flickr.com/photos/jm3/"><img src="http://i.imgur.com/wYlHh63m.jpg" title="Communicating with a whiteboard" alt="Communicating with a whiteboard"/></a>
+<a href="https://www.flickr.com/photos/jm3/"><img src="https://i.imgur.com/wYlHh63m.jpg" title="Communicating with a whiteboard" alt="Communicating with a whiteboard"/></a>
 
 [Credit jm3 @ Flickr](https://www.flickr.com/photos/jm3/)
 

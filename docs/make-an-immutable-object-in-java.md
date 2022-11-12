@@ -18,7 +18,7 @@ A Java immutable object must have all its fields be internal, `private final` fi
 
 Immutable objects come in handy in multi-threaded environments and in streams.  It is great to rely on objects not changing mid-stream.  Bugs caused by a thread changing another thread's object are often subtle and are very, _very_ hard to track down.  Immutable objects stop these whole class of problems in their tracks.
 
-You don't have to take my word for it - see what [experts](https://www.yegor256.com/2014/06/09/objects-should-be-immutable.html) [around](http://www.codebetter.com/patricksmacchia/2008/01/13/immutable-types-understand-them-and-use-them/) [the](http://www.codebetter.com/patricksmacchia/2008/01/13/immutable-types-understand-them-and-use-them/) [web](https://stackoverflow.com/questions/214714/mutable-vs-immutable-objects) say.
+You don't have to take my word for it - see what [experts](https://www.yegor256.com/2014/06/09/objects-should-be-immutable.html) [around](https://www.codebetter.com/patricksmacchia/2008/01/13/immutable-types-understand-them-and-use-them/) [the](https://www.codebetter.com/patricksmacchia/2008/01/13/immutable-types-understand-them-and-use-them/) [web](https://stackoverflow.com/questions/214714/mutable-vs-immutable-objects) say.
 
 Contents
 ----------
