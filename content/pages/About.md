@@ -1,6 +1,6 @@
 Title: About
 Date: 2015-07-17 19:00:00
-Modified: 2016-03-25
+Modified: 2022-11-12
 Category: Meta
 Tags: introduction, general, bio
 Slug: about-gunnar-gissel
@@ -12,17 +12,31 @@ Bio
 
 Gunnar grew up in Juneau, AK. His parents owned a bike shop and he spent much of his childhood pedaling around.  After studying physics at [CMU,](www.cmu.edu) Gunnar took a detour to the Patent Office.  After two years of reading patents, Gunnar made the leap to software development and never looked back.
 
-Gunnar currently works for NOAA National Marine Fisheries, writing software to manage fisheries.  The tldr; is he helps count dead fish so we don't kill too many.
+Gunnar worked for [NOAA National Marine Fisheries](https://www.fisheries.noaa.gov/region/alaska) for nearly 10 years, [writing software to manage fisheries](https://elandings.alaska.gov/).  The tldr; is he helped count dead fish so we don't kill too many.
+
+Gunnar currently works for [Remitly](https://www.remitly.com) helping to create software that makes Remitly the most trusted suite of financial services for immigrants.  In particular, Gunnar writes a platform that connections customers with the best customer service representative to help them.  This means Gunnar spends a lot of time elbows deep in Salesforce integrations, [temporal.io](https://temporal.io) workflows and every corner of the product code that may conceivably need human judgement.
 
 Contact
 -----------
 
-You can contact Gunnar at his email, gunnar@gunnargissel.com or [@monknomo on Twitter](https://twitter.com/monknomo).  Please feel free to get in touch, don't be shy
+You can contact Gunnar at his email, gunnar@gunnargissel.com or [@monknomo on Twitter](https://twitter.com/monknomo).  Please feel free to get in touch, don't be shy.
 
 Work Projects
 ---------------------
 
-Gunnar's main project is the eLandings Electronic Logbook, which
+### Remitly
+
+Gunnar's main project at Remitly is a platform for customer service requests.  This allows internal and external systems to request that a customer service representative do something.  This platform provides 'judgement as a service'.  The platform also allows requests to be grouped together for case management and routing to the best available person.
+
+Gunnar has also created Remitly's Salesforce integration.
+
+Gunnar also created and maintains Remitly's customer service chat implementation, as well as the routing and prioritization framework for all incoming customer contacts.
+
+Working in the customer esrvice domain allows Gunnar to work across nearly all of Remitly's systems and teams.  This breadth of experience has been a vital engine for Gunnar's growth as a software developer.
+
+### NOAA NMFS AKR
+
+Gunnar's main project at NOAA NMFS AKR was the eLandings Electronic Logbook, which
 
 * Reduces paper storage requirements
 * Enables searchability
@@ -54,4 +68,6 @@ This page serves as a fairly up to date overview of Gunnar's professional activi
 Just For Fun
 -------------
 
-Gunnar keeps a [personal tumblr blog.](monknomo.tumblr.com/)  Gunnar also has a neocities website where he puts his ["just for fun" javascript projects.](https://monknomo.neocities.org/)
+Gunnar  has a neocities website where he puts his ["just for fun" javascript projects.](https://monknomo.neocities.org/)
+
+Gunnar also has maintains a toy for drawing, inspired by kid pix, at [draw.horse](https://draw.horse).
