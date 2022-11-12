@@ -39,8 +39,8 @@ DEFAULT_PAGINATION = 10
 
 PLUGINS = [ 'avatar','webassets','sitemap']
 
-AVATAR_AUTHOR_EMAIL='monknomo@gmail.com'
-
+AVATAR_AUTHOR_EMAIL = 'monknomo@gmail.com'
+AVATAR_USE_GRAVATAR = True
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
 DEVTO_USERNAME = 'monknomo'
