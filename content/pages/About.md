@@ -10,7 +10,7 @@ Summary: Who is Gunnar and what does he do?
 Bio
 =====================
 
-Gunnar grew up in Juneau, AK. His parents owned a bike shop and he spent much of his childhood pedaling around.  After studying physics at [CMU,](http://www.cmu.edu) Gunnar took a detour to the Patent Office.  After two years of reading patents, Gunnar made the leap to software development and never looked back.
+Gunnar grew up in Juneau, AK. His parents owned a bike shop and he spent much of his childhood pedaling around.  After studying physics at [CMU,](www.cmu.edu) Gunnar took a detour to the Patent Office.  After two years of reading patents, Gunnar made the leap to software development and never looked back.
 
 Gunnar currently works for NOAA National Marine Fisheries, writing software to manage fisheries.  The tldr; is he helps count dead fish so we don't kill too many.
 
@@ -49,9 +49,9 @@ Gunnar gets worked up about automation.  If a developer has to do the same thing
 Resume
 -------
 
-This page serves as a fairly up to date overview of Gunnar's professional activities, but for those inclined, Gunnar keeps his resume up to date at [StackOverflow's public CV](http://stackoverflow.com/cv/gunnargissel)
+This page serves as a fairly up to date overview of Gunnar's professional activities, but for those inclined, Gunnar keeps his resume up to date at [StackOverflow's public CV](stackoverflow.com/cv/gunnargissel)
 
 Just For Fun
 -------------
 
-Gunnar keeps a [personal tumblr blog.](http://monknomo.tumblr.com/)  Gunnar also has a neocities website where he puts his ["just for fun" javascript projects.](https://monknomo.neocities.org/)
+Gunnar keeps a [personal tumblr blog.](monknomo.tumblr.com/)  Gunnar also has a neocities website where he puts his ["just for fun" javascript projects.](https://monknomo.neocities.org/)

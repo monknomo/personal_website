@@ -7,9 +7,9 @@ Tags: java, technique, diy, how-to, tutorial, guide, lambda, function, refactor
 Authors: Gunnar Gissel
 Summary: How the validator pattern makes business rules easy to test, transport and package
 
-Start with [Part 1](http://www.gunnargissel.com/turn-your-spaghetti-code-into-functions-part-1.html) and [Part 2](http://www.gunnargissel.com/turn-your-spaghetti-code-into-functions-part-2.html) first.
+Start with [Part 1](www.gunnargissel.com/turn-your-spaghetti-code-into-functions-part-1.html) and [Part 2](www.gunnargissel.com/turn-your-spaghetti-code-into-functions-part-2.html) first.
 
-Picking up [where we left off in Part II]( http://www.gunnargissel.com/turn-your-spaghetti-code-into-functions-part-2.html ), let's set the stage for using a validator.   We left our example elephant in a cool convertible, but let's upgrade his ride to a rocket ship.  We'll start like all good rocket scientists - with a round of cleaning!
+Picking up [where we left off in Part II]( www.gunnargissel.com/turn-your-spaghetti-code-into-functions-part-2.html ), let's set the stage for using a validator.   We left our example elephant in a cool convertible, but let's upgrade his ride to a rocket ship.  We'll start like all good rocket scientists - with a round of cleaning!
 
 <img src="https://i.imgur.com/HS1ZVqFl.png" title="elephant driving a space shuttle" alt="elephant driving a space shuttle" />
 

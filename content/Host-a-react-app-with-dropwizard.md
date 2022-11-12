@@ -73,7 +73,7 @@ In development mode, proceed as normal.  Fire up Dropwizard `java -jar muh-sweet
 
 In production mode, fire up Dropwizard, and then do a React build `npm run build`.  This will create a production-optimized build of your React app, which you can place where Dropwizard expects to find it.
 
-You'll have two options to view your React app - the default http://localhost:3000 or Dropwizard-served http://localhost:8085
+You'll have two options to view your React app - the default localhost:3000 or Dropwizard-served localhost:8085
 
 The default port is hosted by React's built in server and has all the auto-reloading goodies you are used to.
 

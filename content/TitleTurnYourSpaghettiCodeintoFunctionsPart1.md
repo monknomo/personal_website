@@ -10,7 +10,7 @@ Summary: Don't fight with your code, let your code fight for you.  Use clever re
 
 
 
-<img src="http://i.imgur.com/WtnFFKs.png" title="Cramming an elephant into a Smart Car" />
+<img src="i.imgur.com/WtnFFKs.png" title="Cramming an elephant into a Smart Car" />
 
 
 Developers can sink a lot of hours into fighting business rule code.  [Spaghetti business rules](https://en.wikipedia.org/wiki/Spaghetti_code) make it so little changes need to be copy pasted repeatedly throughout if/else blocks.  It's like trying to shoehorn an elephant into a Smart Car, when it should be like snapping together legos.
@@ -33,7 +33,7 @@ This will teach you how to untangle business rules, so you can easily work with 
 
 ### Readability
 
-<img src="http://i.imgur.com/yU7tDJnm.jpg" title="Books!" />
+<img src="i.imgur.com/yU7tDJnm.jpg" title="Books!" />
 
 Deep nesting impairs readability.  Even when developers use tabs well and are consistent with their curly brace usage, around the 3rd layer of if/else statements, it starts getting hard to tell what particular branch you are reading.
 
@@ -68,7 +68,7 @@ If your code takes mental backflips to match how your stakeholders talk, you're 
 
 Gnarly business rule code is hard to test.  The twists and turns of deeply nested if/else statements are easy to get lost in, easy to forget a branch and sometimes just plain impossible to set up in a testing harness.  No tests mean every change is dangerous - you are one misplaced `}`, or backwards `>` from giving your users a headache.
 
-<img src="http://i.imgur.com/UEHFn8Am.jpg" title="Mutant strawberry" />
+<img src="i.imgur.com/UEHFn8Am.jpg" title="Mutant strawberry" />
 
 Gnarly business rule code seems to encourage devs to mutate the objects it is validating.  I don't know why this is, but I've seen it many times in the wild.  State mutation amps up the testing difficulty by an order of magnitude.  Now, not only must you test for messages and expected errors, but you must detect changes to the object you are validating.  Are they intentional?  Are they correct?
 
@@ -81,7 +81,7 @@ Who knows?  I promise no one wrote it down.
 Stakeholders, users, managers and developers constantly engage in timeline tug of war.  Technical debt hamstrings developers' ability to give their users what they need.  A good 'tell' that your system has a lot of technical debt is users can easily describe a feature, but developers can't easily implement it.  The simplest things turn into month long bushwhacking exercises.
 
 
-<img src="http://i.imgur.com/PCMKeOMm.jpg" title="Devil's Club is thorny" />
+<img src="i.imgur.com/PCMKeOMm.jpg" title="Devil's Club is thorny" />
 
 
 To me, nothing says bushwhacking like coming down a mountain, getting off trail and fighting through [Devil's Club](https://en.wikipedia.org/wiki/Devil%27s_club) and loose scree - 

@@ -27,7 +27,7 @@ Lately, I've been on a predicate kick.  I like replacing my conditionals with pr
 It's true; if the code base had been crafted with Optionals or other null-avoidance techniques, that I could mostly ignore this check.  My code base has history and weight and external interfaces, so there are plenty of this check and others like it.
 
 
-I have been using [this regex](http://regexr.com/3fu2e) to find likely places that I can apply my predicate:
+I have been using [this regex](regexr.com/3fu2e) to find likely places that I can apply my predicate:
 
 
       /\(\s*null\s*==\s*(\S*)\s*\|\|\s*""\.equals\(\s*\1\s*\)\s*\)|\(\s*(\S*)\s*==\s*null\s*\|\|\s*""\.equals\(\s*\2\s*\)\s*\)|\(\s*null\s*==\s*(\S*)\s*\|\|\s*\3\.equals\(\s*""\s*\)\s*\)|\(\s*(\S*)\s*==\s*null\s*\|\|\s*\4\.equals\(\s*""\s*\)\s*\)|\(\s*""\.equals\(\s*(\S*)\s*\)\s*\|\|\s*null\s*==\s*\5\s*\)|\(\s*(\S*)\.equals\(\s*""\s*\)\s*\|\|\s*null\s*==\s*\6\s*\)|\(\s*""\.equals\(\s*(\S*)\s*\)\s*\|\|\s\7\s*==\s*null\s*\)|\(\s*(\S*).equals\(\s*""\s*\)\s*\|\|\s*\8\s*==\s*null\s*\)|\(\s*null\s*==\s*(\S*)\s*\|\|\s*""\s*==\s*\9\s*\)|\(\s*(\S*)\s*==\s*null\s*\|\|\s*""\s*==\s*\10\s*\)|\(\s*null\s*==\s*(\S*)\s*\|\|\s*\11\s*==\s*""\s*\)|\(\s*(\S*)\s*==\s*null\s*\|\|\s*\12\s*==\s*""\s*\)|\(\s*""\s*==\s*(\S*)\s*\|\|\s*null\s*==\s*\13\s*\)|\(\s*(\S*)\s*==\s*""\s*\|\|\s*null\s*==\s*\14\s*\)|\(\s*""\s*==\s*(\S*)\s*\|\|\s*\15\s*==\s*null\s*\)|\(\s*(\S*)\s*==\s*""\s*\|\|\s*\16\s*==\s*null\s*\)/g

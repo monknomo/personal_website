@@ -8,7 +8,7 @@ Authors: Gunnar Gissel
 Summary: It's often difficult to separate problem behavior from the employee.  This flowchart provides a framework for correcting problem behavior by identifying its underlying cause and addressing the root cause, rather than just punishing the employee to little or no effect
 
 
-A few months back I took the [Coast Guard Senior Leadership Principles and Skills class,](https://www.uscg.mil/leadership/courses/all_slps.asp) which combines [The Leadership Challenge](http://www.leadershipchallenge.com/home.aspx) with some Coast Guard specifics.  I enjoyed the class a great deal - the instructors ([Charlie Coiro](http://mediaeducationlab.com/about/charlie-coiro) and Cdr Scott Jones) were outstanding.
+A few months back I took the [Coast Guard Senior Leadership Principles and Skills class,](https://www.uscg.mil/leadership/courses/all_slps.asp) which combines [The Leadership Challenge](www.leadershipchallenge.com/home.aspx) with some Coast Guard specifics.  I enjoyed the class a great deal - the instructors ([Charlie Coiro](mediaeducationlab.com/about/charlie-coiro) and Cdr Scott Jones) were outstanding.
 
 
 One resource they provided is the technique the Coast Guard uses to address problem behavior with its staff.  This was something of a revelation for me, because while I had some vague sense of how to encourage people having problems, I lacked a structured way of intervening.  
@@ -20,7 +20,7 @@ The technique the Coast Guard uses provides a structure that I like, because it 
 This matches my experience - essentially everybody I work with is a dedicated professional working toward the same goal, and problems arise not because of willingness but out of confusion.
 
 
-<a target="_blank" href="http://i.imgur.com/AiRZMuw.png"><img alt="Behavior Correction Flowchart, click for bigger" title="Behavior Correction Flowchart, click for bigger" src="http://i.imgur.com/AiRZMuwl.png"></a>
+<a target="_blank" href="i.imgur.com/AiRZMuw.png"><img alt="Behavior Correction Flowchart, click for bigger" title="Behavior Correction Flowchart, click for bigger" src="i.imgur.com/AiRZMuwl.png"></a>
 
 
 This chart is supposed to guide how a leader responds to a problem with one of their charges.  The leader is supposed to correct problem behaviors by stating the standard vs the behavior, listening and then diagnosing why there is problem behavior.  Depending on the underlying reason for the problem behavior, different approaches are advised.

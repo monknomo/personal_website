@@ -8,7 +8,7 @@ Author: Gunnar Gissel
 Email: monknomo@gmail.com
 Summary: Quickly choose whether to use Docker or a self contained fat jar
 
-I saw [a question](http://www.reddit.com/r/java/comments/465sv2) on [r/java](http://www.reddit.com/r/java) that I thought was great.  OP is deploying a fat jar that has everything OP's app requires, so the deploy is just a simple file copy.  OP is also using Docker to deploy the entire environment along with the jar and wonders if it is worth it.
+I saw [a question](www.reddit.com/r/java/comments/465sv2) on [r/java](www.reddit.com/r/java) that I thought was great.  OP is deploying a fat jar that has everything OP's app requires, so the deploy is just a simple file copy.  OP is also using Docker to deploy the entire environment along with the jar and wonders if it is worth it.
 
 When to Use Docker
 ---------------------
@@ -25,10 +25,10 @@ When to Use Docker
 When to Use a Fat Jar
 -----------------------
 
-[Fat jars](http://stackoverflow.com/questions/19150811/what-is-a-fat-jar) are great.  A fat jar bundles everything you need into one convenient archive, ready to go.  Deploying a fat jar is easy: copy the jar to the server and run it.  It's worth pointing out that fat jars combine very well with Docker - they are easier to use in the Docker context than containers.
+[Fat jars](stackoverflow.com/questions/19150811/what-is-a-fat-jar) are great.  A fat jar bundles everything you need into one convenient archive, ready to go.  Deploying a fat jar is easy: copy the jar to the server and run it.  It's worth pointing out that fat jars combine very well with Docker - they are easier to use in the Docker context than containers.
 
 ### 3 Reasons to Use a Fat Jar
 
 1. When your environment is hand crafted.  Fat jars are particularly useful both the jar and the environment define configuration
 2. When maintaining a Docker registry is significant overhead.  If you're not already doing it, why add yet another infrastructure system?
-3. When you have an artifact repository (like [Archiva](https://archiva.apache.org/index.cgi) or [Nexus](http://www.sonatype.com/nexus/solution-overview)).  These make it trivial to grab and deploy a particular version of your fat jar
+3. When you have an artifact repository (like [Archiva](https://archiva.apache.org/index.cgi) or [Nexus](www.sonatype.com/nexus/solution-overview)).  These make it trivial to grab and deploy a particular version of your fat jar

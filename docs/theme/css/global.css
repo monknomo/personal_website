@@ -3,7 +3,7 @@ Goldilocks Approach to Responsive Web Design Boilerplate
 
 Author: Design by Front - @designbyfront
 Version: 0.1
-URL: http://www.goldilocksapproach.com
+URL: https://www.goldilocksapproach.com
 ----------------------------------------------------------------------------------------
 
 CONTENTS - GLOBAL.CSS
@@ -59,7 +59,7 @@ html {
   background: #FFF;
   }
 
-/* /ht Ethan Marcotte - http://front.ie/l8rJaA */
+/* /ht Ethan Marcotte - https://front.ie/l8rJaA */
 img, embed, object, video { max-width: 100%; }
 .ie6 img.full, .ie6 object.full, .ie6 embed, .ie6 video { width: 100%; }
 

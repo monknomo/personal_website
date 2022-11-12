@@ -7,27 +7,27 @@ Slug: projects
 Author: Gunnar Gissel
 Summary: I have a few passion projects, like pywe, the Windows Python helper and, notecard-wiki, the wiki for notes
 
-[PyWE](http://www.github.com/monknomo/pywe)
+[PyWE](www.github.com/monknomo/pywe)
 ===========
 
-[PyWE (Python Windows Environment)](http://www.github.com/monknomo/pywe) is a collection of scripts that make it easier to install multiple versions of python, switch between different versions of python and create/activate/deactivate per-python virtual environments.
+[PyWE (Python Windows Environment)](www.github.com/monknomo/pywe) is a collection of scripts that make it easier to install multiple versions of python, switch between different versions of python and create/activate/deactivate per-python virtual environments.
 
 [CardWiki](https://github.com/monknomo/CardWiki)
 =====================================================
 
-[CardWiki](https://github.com/monknomo/CardWiki) is a wiki that is patterned after [TiddlyWiki.](http://tiddlywiki.com/)  Unlike TiddlyWiki, CardWiki is designed with hosting in mind.  CardWiki uses a notecard metaphor, rather than a page metaphor, so you can look at and edit multiple cards at the same time.  If you're the sort of person that likes to keep 100's of tabs open, or you love to accumulate tons of notes on scraps of paper, CardWiki might help you view and organize your thoughts.
+[CardWiki](https://github.com/monknomo/CardWiki) is a wiki that is patterned after [TiddlyWiki.](tiddlywiki.com/)  Unlike TiddlyWiki, CardWiki is designed with hosting in mind.  CardWiki uses a notecard metaphor, rather than a page metaphor, so you can look at and edit multiple cards at the same time.  If you're the sort of person that likes to keep 100's of tabs open, or you love to accumulate tons of notes on scraps of paper, CardWiki might help you view and organize your thoughts.
 
 Currently, CardWiki is an open source Python project that you can set up and run yourself.  Contact me if you want to see a hosted version of CardWiki
 
 [Straight-Laced](https://github.com/monknomo/straight-laced)
 ==============================================================
 
-A theme for [Pelican blogs.](http://blog.getpelican.com/) It's the theme this website is using.  Straight-laced is plain jane, but responsive and marked up with both semantic markup and [schema.org](schema.org) markup.
+A theme for [Pelican blogs.](blog.getpelican.com/) It's the theme this website is using.  Straight-laced is plain jane, but responsive and marked up with both semantic markup and [schema.org](schema.org) markup.
 
 [Pretty Good Computer](https://github.com/monknomo/pretty_good_computer)
 ========================================================================
 
-Pretty Good Computer is a toy computer I built to simulate the [z-machine as described by jgc.](http://blog.jgc.org/2013/05/the-two-problems-i-had-to-solve-in-my.html) I enjoyed working out the problems long hand, but thought that I could have a computer do the repetetive scut work; they're better at it after all.
+Pretty Good Computer is a toy computer I built to simulate the [z-machine as described by jgc.](blog.jgc.org/2013/05/the-two-problems-i-had-to-solve-in-my.html) I enjoyed working out the problems long hand, but thought that I could have a computer do the repetetive scut work; they're better at it after all.
 
 The z machine has unlimited memory locations that are numbered, so we can refer to them. The cpu understands 3 instructions:
 

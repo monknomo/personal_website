@@ -19,7 +19,7 @@ You run the bem server!  The bem documentation says running `bem server` works, 
 
 `bem server -p 8080 --host=127.0.0.1`
 
-Once you've done that, browse to http://127.0.0.1:8080 and you should see the bem server index page giving you diagrams of your bundles and links to your bundles' index pages
+Once you've done that, browse to 127.0.0.1:8080 and you should see the bem server index page giving you diagrams of your bundles and links to your bundles' index pages
 
 #### Footnotes
 

@@ -8,7 +8,7 @@ Authors: Gunnar Gissel
 Summary: My react linter kept giving me an error and nothing I changed in javascript fixed it.  A quick sprinkling of converters solved my problem
 
 
-<img src="http://i.imgur.com/gAbkVMzl.jpg"/>
+<img src="i.imgur.com/gAbkVMzl.jpg"/>
 
 
 React wants form inputs and the like to keep their state inside React, inside of inside the input.  This style is called a "controlled input".  They also offer "uncontrolled input" where the input manages its own state.

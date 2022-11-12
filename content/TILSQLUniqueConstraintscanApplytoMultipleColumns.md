@@ -32,7 +32,7 @@ And a child table
     NAME
 
 
-I wanted to have each parent have children with unique names.  Children don't need to have unique names - you might have a classroom full of Aidens, but every family only has one Aiden.  I totally blanked on how to do this.  I thought I probably had to craft a check constraint with a query that looked up the parent, but [Stack Overflow to the rescue](http://stackoverflow.com/questions/38128466/crafting-a-check-constraint-that-depends-on-another-table/38128515#38128515)
+I wanted to have each parent have children with unique names.  Children don't need to have unique names - you might have a classroom full of Aidens, but every family only has one Aiden.  I totally blanked on how to do this.  I thought I probably had to craft a check constraint with a query that looked up the parent, but [Stack Overflow to the rescue](stackoverflow.com/questions/38128466/crafting-a-check-constraint-that-depends-on-another-table/38128515#38128515)
 
 
 You can just make a unique constraint that covers PARENT_ID and NAME _at the same time_

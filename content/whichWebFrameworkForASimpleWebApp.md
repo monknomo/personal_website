@@ -22,4 +22,4 @@ That said, if you must use a framework...
 Use Dropwizard
 =================
 
-Java has a reputation for being [heavyweight and verbose](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition).  It doesn't have to be that way.  [Dropwizard](http://www.dropwizard.io/) takes a lot of verbosity and enterprise-yness out of making a web application (especially compared to Spring).  I'm a fan, and if you're hellbent on using a framework, try out Dropwizard.
+Java has a reputation for being [heavyweight and verbose](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition).  It doesn't have to be that way.  [Dropwizard](www.dropwizard.io/) takes a lot of verbosity and enterprise-yness out of making a web application (especially compared to Spring).  I'm a fan, and if you're hellbent on using a framework, try out Dropwizard.

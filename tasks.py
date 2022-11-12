@@ -57,7 +57,7 @@ def regenerate(c):
 
 @task
 def serve(c):
-    """Serve site at http://$HOST:$PORT/ (default is localhost:8000)"""
+    """Serve site at $HOST:$PORT/ (default is localhost:8000)"""
 
     class AddressReuseTCPServer(RootedHTTPServer):
         allow_reuse_address = True
@@ -70,7 +70,7 @@ def serve(c):
     if OPEN_BROWSER_ON_SERVE:
         # Open site in default browser
         import webbrowser
-        webbrowser.open("http://{host}:{port}".format(**CONFIG))
+        webbrowser.open("{host}:{port}".format(**CONFIG))
 
     sys.stderr.write('Serving at {host}:{port} ...\n'.format(**CONFIG))
     server.serve_forever()
@@ -119,7 +119,7 @@ def livereload(c):
     if OPEN_BROWSER_ON_SERVE:
         # Open site in default browser
         import webbrowser
-        webbrowser.open("http://{host}:{port}".format(**CONFIG))
+        webbrowser.open("{host}:{port}".format(**CONFIG))
 
     server.serve(host=CONFIG['host'], port=CONFIG['port'], root=CONFIG['deploy_path'])
 

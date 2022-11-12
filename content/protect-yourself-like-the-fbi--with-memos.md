@@ -39,7 +39,7 @@ It's common for programmers to understand memos in [Office Space](https://en.wik
 
 Memo is short for "memorandum" which is from the Latin phrase _memorandum est,_ "It must be remembered that..."  A memo is some kind of documentation that jogs your memory.  Of course, there are many different kinds memos in the modern world - policy memos, memorandum of understandings, meeting minutes, the list goes on.
 
-From day-to-day programmer, the most important kind of memo is the [memo-to-file](http://www.weeklystandard.com/a-brief-history-of-the-memo-to-the-file/article/2008086).  A memo-to-file is something you write after a conversation or an action that describes what happened.  It isn't addressed to anyone, it's not trying to persuade anyone of anything.  A memo-to-file simply records an event as you understood it at a certain point in time.
+From day-to-day programmer, the most important kind of memo is the [memo-to-file](www.weeklystandard.com/a-brief-history-of-the-memo-to-the-file/article/2008086).  A memo-to-file is something you write after a conversation or an action that describes what happened.  It isn't addressed to anyone, it's not trying to persuade anyone of anything.  A memo-to-file simply records an event as you understood it at a certain point in time.
 
 Put another way, a memo-to-file is a note with a date on it.  
 

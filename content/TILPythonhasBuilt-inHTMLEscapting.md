@@ -8,7 +8,7 @@ Authors: Gunnar Gissel
 Summary: Python has a built in function to escape text in an html safe way
 
 
-TIL that [Python has a built in to escape text for html!](http://stackoverflow.com/questions/2077283/escape-special-html-characters-in-python)
+TIL that [Python has a built in to escape text for html!](stackoverflow.com/questions/2077283/escape-special-html-characters-in-python)
 
 
 <img src="https://imgs.xkcd.com/comics/python.png" alt="xkcd comic about how python makes everything better.  You gotta go to the real site if you want the real alt text"></img>
