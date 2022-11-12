@@ -257,7 +257,7 @@ We're going to see:
 We'll try to get that elephant in his Smart Car, but mostly we'll try to make your life better.
 
 
-<img src="http://i.imgur.com/xfmb1Bs.png"  title="An elephant driving a Smart Car"/>
+<img src="https://i.imgur.com/xfmb1Bs.png"  title="An elephant driving a Smart Car"/>
 
 
 ## Credits

@@ -11,7 +11,7 @@ Read [Part 1,](http://www.gunnargissel.com/turn-your-spaghetti-code-into-functio
 
 In Part 1, we started with [an example of common business logic code,](https://github.com/monknomo/If-Else-Block-Refactoring/blob/master/src/main/java/com/gunnargissel/suemez/businessrulerefactorexample/BusinessRulesEngine.java) and an analogy based on cramming an elephant into a Smart Car. We did some refactoring to untangle the nested if/else blocks, but we left after we finished cramming the elephant into a Smart Car.
 
-<img src="http://i.imgur.com/xfmb1Bs.png"  title="An elephant driving a Smart Car"/>
+<img src="https://i.imgur.com/xfmb1Bs.png"  title="An elephant driving a Smart Car"/>
 
 In many ways, it feels "good enough", but what if I told you we can get it better?  Java 8 brings us a new tool to contain and use the logic within an `if` statement - the Predicate.  In terms of elephants driving cars, we can get it driving a stylish convertible.
 
