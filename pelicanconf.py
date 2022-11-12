@@ -3,6 +3,7 @@ from urllib.parse import quote_plus
 
 AUTHOR = 'Gissel'
 SITENAME = "Gunnar's blog"
+# SITEURL = 'http://localhost:8080'
 SITEURL = 'https://www.gunnargissel.com'
 
 PATH = 'content'
