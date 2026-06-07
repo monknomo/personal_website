@@ -1,7 +1,8 @@
-output/*
-__pycache__/*
+output/
+__pycache__/
 *.pyc
-Lib/*
-Scripts/*
-output/*
-Include/*
+Lib/
+Scripts/
+Include/
+venv/
+docs/
