@@ -10,6 +10,8 @@ PATH = 'content'
 
 DELETE_OUTPUT_DIRECTORY = True
 OUTPUT_PATH = './docs'
+STATIC_PATHS = ['images', 'extra']
+EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'}}
 
 TIMEZONE = 'America/Los_Angeles'
 

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<urlset xmlns:xsi="www.w3.org/2001/XMLSchema-instance"
-xsi:schemaLocation="www.sitemaps.org/schemas/sitemap/0.9 www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
-xmlns="www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.gunnargissel.com/</loc>
-<lastmod>2022-11-12T10:31:52-00:00</lastmod>
+<lastmod>2026-06-08T20:41:53-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
