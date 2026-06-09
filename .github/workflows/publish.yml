@@ -58,7 +58,7 @@ jobs:
             zipp==3.10.0
 
       - name: Build site
-        run: pelican content -s publishconf.py -e THEME=straight-laced
+        run: pelican content -s publishconf.py -e 'THEME="straight-laced"'
 
       - name: Sync built docs to published-webpage branch
         run: rsync -a --delete docs/ published-branch/docs/
